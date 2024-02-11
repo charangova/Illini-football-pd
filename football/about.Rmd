@@ -1,0 +1,16 @@
+## Author
+
+  - **Name:** Charan Govarthanaraj
+  - **Email:** charang2@illinois.edu
+
+## Purpose
+
+The purpose of this application is to allow users to filter through and see how the Illini football team has done throughout its history. The graph allows users to filter based on a time range in seasons, location and finally the opponent. The filtering of location will allow users to see if the Illini played better at home or away against the same opponent during a time period. Overall the point of the graph which plots point differential(Illinois-Opponent) against time is to allow people to see how Illinois football has progressed through the years and how we have played against certain rivals over time.
+
+## Data
+
+I am an avid football fan so when I saw the Illinois football data set, I knew I had to do something with it. This data set is created/compiled by Professor Wade Fagen-Ulmschneider who is a faculty at the University of Illinois Urbana-Champaign. In the data set there are several columns: "Season", "Date", "Location", "Opponent", "OpponentRank", "Result", "IlliniScore", "OpponentScore" and "Note" describing several things pertinent to each game. The "Date", "Location", "Opponent" and "Result", "Note" are character columns and the "Season", "OpponentRank", "IlliniScore" and "OpponentScore" columns are double columns. The "Season" column contains a double for the season which the game was played in while the "Date" column provides the exact date which the game was played on. The "Location" column describes where the game was played and the "Opponent" column provides data about who the game was played against. The "Result" column provides the end result of the game for the Illini football team while the "IlliniScore" and "OpponentScore" column let the user know how many points the Illini football team and the Opponent football team scored, respectively. Finally the "OpponentRank" column and the "Note" column are extra columns letting the users know if the team that the Illini played was ranked nationally and/or if the game was special(ex. Homecoming, Bowl games and canceled games).
+
+## References
+  -[wadefagen’s Useful Datasets](https://github.com/wadefagen/datasets)
+  -[illini-football](https://raw.githubusercontent.com/wadefagen/datasets/master/illini-football/illini-football-scores.csv)

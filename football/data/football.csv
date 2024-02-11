@@ -1,0 +1,1285 @@
+Season,Date,Location,Opponent,OpponentRank,Result,IlliniScore,OpponentScore,Note
+2022,8/27/2022,vs.,Wyoming,NA,W,30,6,NA
+2022,9/2/2022,@,Indiana,NA,L,20,23,NA
+2022,9/10/2022,vs.,Virginia,NA,W,24,3,NA
+2022,9/22/2022,vs.,Chattanooga,10,W,31,0,NA
+2022,10/1/2022,@,Wisconsin,NA,W,34,10,NA
+2022,10/8/2022,vs.,Iowa,NA,W,9,6,NA
+2022,10/15/2022,vs.,Minnesota,NA,W,26,14,Homecoming
+2022,10/29/2022,@,Nebraska,NA,W,26,9,NA
+2022,11/5/2022,vs.,Michigan State,NA,L,15,23,NA
+2022,11/12/2022,vs.,Purdue,NA,L,24,31,NA
+2022,11/19/2022,@,Michigan,NA,L,17,19,NA
+2022,11/26/2022,@,Northwestern,3,W,41,3,NA
+2022,1/2/2023,"Tampa, FL",Mississippi State,22,L,10,19,ReliaQuest Bowl
+2021,8/28/2021,vs.,Nebraska,NA,W,30,22,NA
+2021,9/4/2021,vs.,UTSA,NA,L,30,37,NA
+2021,9/11/2021,@,Virginia,NA,L,14,42,NA
+2021,9/17/2021,vs.,Maryland,NA,L,17,20,NA
+2021,9/25/2021,@,Purdue,NA,L,9,13,NA
+2021,10/2/2021,vs.,Charlotte,NA,W,24,14,NA
+2021,10/9/2021,vs.,Wisconsin,NA,L,0,24,Homecoming
+2021,10/23/2021,@,Penn State,7,W,20,18,NA
+2021,10/30/2021,vs.,Rutgers,NA,L,14,20,NA
+2021,11/6/2021,@,Minnesota,20,W,14,6,NA
+2021,11/20/2021,@,Iowa,17,L,23,33,NA
+2021,11/27/2021,vs.,Northwestern,NA,W,47,14,NA
+2020,10/23/2020,@,Wisconsin,14,L,7,45,NA
+2020,10/31/2020,vs.,Purdue,NA,L,24,31,NA
+2020,11/7/2020,vs.,Minnesota,NA,L,14,41,NA
+2020,11/14/2020,@,Rutgers,NA,W,23,20,NA
+2020,11/21/2020,@,Nebraska,NA,W,41,23,NA
+2020,11/28/2020,vs.,Ohio State,3,NA,NA,NA,Canceled (COVID-19)
+2020,12/5/2020,vs.,Iowa,24,L,21,35,Homecoming
+2020,12/12/2020,@,Northwestern,15,L,10,28,NA
+2020,12/19/2020,@,Penn State,NA,L,21,56,NA
+2019,8/31/2019,vs.,Akron,NA,W,42,3,NA
+2019,9/7/2019,@,UConn,NA,W,31,23,NA
+2019,9/14/2019,vs.,Eastern Michigan,NA,L,31,34,NA
+2019,9/21/2019,vs.,Nebraska,NA,L,38,42,NA
+2019,10/5/2019,@,Minnesota,NA,L,17,40,NA
+2019,10/12/2019,vs.,Michigan,NA,L,25,42,NA
+2019,10/19/2019,vs.,Wisconsin,NA,W,24,23,Homecoming
+2019,10/26/2019,@,Purdue,NA,W,24,6,NA
+2019,11/2/2019,vs.,Rutgers,NA,W,38,10,NA
+2019,11/9/2019,@,Michigan State,NA,W,37,34,NA
+2019,11/23/2019,@,Iowa,NA,L,10,19,NA
+2019,11/30/2019,vs.,Northwestern,NA,L,10,29,NA
+2019,12/30/2019,"Santa Clara, CA",California,NA,L,20,35,Red Box Bowl
+2018,9/1/2018,vs.,Kent State,NA,W,31,24,NA
+2018,9/8/2018,vs.,Western Illinois,NA,W,34,14,NA
+2018,9/15/2018,"Chicago, IL",South Florida,NA,L,19,25,NA
+2018,9/21/2018,vs.,Penn State,NA,L,24,63,NA
+2018,10/6/2018,@,Rutgers,NA,W,38,17,NA
+2018,10/13/2018,vs.,Purdue,NA,L,7,46,Homecoming
+2018,10/20/2018,@,Wisconsin,NA,L,20,49,NA
+2018,10/27/2018,@,Maryland,NA,L,33,63,NA
+2018,11/3/2018,vs.,Minnesota,NA,W,55,31,NA
+2018,11/10/2018,@,Nebraska,NA,L,35,54,NA
+2018,11/17/2018,vs.,Iowa,NA,L,0,63,NA
+2018,11/24/2018,@,Northwestern,NA,L,16,24,NA
+2017,9/2/2017,vs.,Ball State,NA,W,24,21,NA
+2017,9/9/2017,vs.,Western Kentucky,NA,W,20,7,NA
+2017,9/15/2017,@,South Florida,NA,L,23,47,NA
+2017,9/29/2017,vs.,Nebraska,NA,L,6,28,NA
+2017,10/7/2017,@,Iowa,NA,L,16,45,NA
+2017,10/14/2017,vs.,Rutgers,NA,L,24,35,NA
+2017,10/21/2017,@,Minnesota,NA,L,17,24,NA
+2017,10/28/2017,vs.,Wisconsin,NA,L,10,24,Homecoming
+2017,11/4/2017,@,Purdue,NA,L,10,29,NA
+2017,11/11/2017,vs.,Indiana,NA,L,14,24,NA
+2017,11/18/2017,@,Ohio State,NA,L,14,52,NA
+2017,11/25/2017,vs.,Northwestern,NA,L,7,42,NA
+2016,9/3/2016,vs.,Murray State,NA,W,52,3,NA
+2016,9/10/2016,vs.,North Carolina,NA,L,23,48,NA
+2016,9/17/2016,vs.,Western Michigan,NA,L,10,34,NA
+2016,10/1/2016,@,Nebraska,NA,L,16,31,NA
+2016,10/8/2016,vs.,Purdue,NA,L,31,34,NA
+2016,10/15/2016,@,Rutgers,NA,W,24,7,NA
+2016,10/22/2016,@,Michigan,NA,L,8,41,NA
+2016,10/29/2016,vs.,Minnesota,NA,L,17,40,Homecoming
+2016,11/5/2016,vs.,Michigan State,NA,W,31,27,NA
+2016,11/12/2016,@,Wisconsin,NA,L,3,48,NA
+2016,11/19/2016,vs.,Iowa,NA,L,0,28,NA
+2016,11/26/2016,@,Northwestern,NA,L,21,42,NA
+2015,9/5/2015,vs.,Kent State,NA,W,52,3,NA
+2015,9/12/2015,vs.,Western Illinois,NA,W,44,0,NA
+2015,9/19/2015,@,North Carolina,NA,L,14,48,NA
+2015,9/26/2015,vs.,Middle Tennessee State,NA,W,27,25,NA
+2015,10/3/2015,vs.,Nebraska,NA,W,14,13,NA
+2015,10/10/2015,@,Iowa,NA,L,20,29,NA
+2015,10/24/2015,vs.,Wisconsin,NA,L,13,24,Homecoming
+2015,10/31/2015,@,Penn State,NA,L,0,39,NA
+2015,11/7/2015,@,Purdue,NA,W,48,14,NA
+2015,11/14/2015,vs.,Ohio State,NA,L,3,28,NA
+2015,11/21/2015,@,Minnesota,NA,L,23,32,NA
+2015,11/28/2015,"Chicago, IL",Northwestern,NA,L,14,24,NA
+2014,8/30/2014,vs.,Youngstown State,NA,W,28,17,NA
+2014,9/6/2014,vs.,Western Kentucky,NA,W,42,34,NA
+2014,9/13/2014,@,Washington,NA,L,19,44,NA
+2014,9/20/2014,vs.,Texas State,NA,W,42,35,NA
+2014,9/27/2014,@,Nebraska,NA,L,14,45,NA
+2014,10/4/2014,vs.,Purdue,NA,L,27,38,NA
+2014,10/11/2014,@,Wisconsin,NA,L,28,38,NA
+2014,10/25/2014,vs.,Minnesota,NA,W,28,24,Homecoming
+2014,11/1/2014,@,Ohio State,NA,L,14,55,NA
+2014,11/15/2014,vs.,Iowa,NA,L,14,30,NA
+2014,11/22/2014,vs.,Penn State,NA,W,16,14,NA
+2014,11/29/2014,@,Northwestern,NA,W,47,33,NA
+2014,12/26/2014,"Dallas, TX",Louisiana Tech,NA,L,18,35,Heart of Dallas Bowl
+2013,8/31/2013,vs.,Southern Illinois,NA,W,42,34,NA
+2013,9/7/2013,vs.,Cincinnati,NA,W,45,17,NA
+2013,9/14/2013,"Chicago, IL",Washington,NA,L,24,34,NA
+2013,9/28/2013,vs.,Miami,NA,W,50,14,NA
+2013,10/5/2013,@,Nebraska,NA,L,19,39,NA
+2013,10/19/2013,vs.,Wisconsin,NA,L,32,56,NA
+2013,10/26/2013,vs.,Michigan State,NA,L,3,42,Homecoming
+2013,11/2/2013,@,Penn State,NA,L,17,24,NA
+2013,11/9/2013,@,Indiana,NA,L,35,52,NA
+2013,11/16/2013,vs.,Ohio State,NA,L,35,60,NA
+2013,11/23/2013,@,Purdue,NA,W,20,16,NA
+2013,11/30/2013,vs.,Northwestern,NA,L,34,37,NA
+2012,9/1/2012,vs.,Western Michigan,NA,W,24,7,NA
+2012,9/8/2012,@,Arizona State,NA,L,14,45,NA
+2012,9/15/2012,vs.,Charleston Southern,NA,W,44,0,NA
+2012,9/22/2012,vs.,Louisiana Tech,NA,L,24,52,NA
+2012,9/29/2012,vs.,Penn State,NA,L,7,35,NA
+2012,10/6/2012,@,Wisconsin,NA,L,14,31,NA
+2012,10/13/2012,@,Michigan,NA,L,0,45,NA
+2012,10/27/2012,vs.,Indiana,NA,L,17,31,Homecoming
+2012,11/3/2012,@,Ohio State,NA,L,22,52,NA
+2012,11/10/2012,vs.,Minnesota,NA,L,3,17,NA
+2012,11/17/2012,vs.,Purdue,NA,L,17,20,NA
+2012,11/24/2012,@,Northwestern,NA,L,14,50,NA
+2011,9/3/2011,vs.,Arkansas State,NA,W,33,15,NA
+2011,9/10/2011,vs.,South Dakota State,NA,W,56,3,NA
+2011,9/17/2011,vs.,Arizona State,NA,W,17,14,NA
+2011,9/24/2011,vs.,Western Michigan,NA,W,23,20,NA
+2011,10/1/2011,vs.,Northwestern,NA,W,38,35,Homecoming
+2011,10/8/2011,@,Indiana,NA,W,41,20,NA
+2011,10/15/2011,vs.,Ohio State,NA,L,7,17,NA
+2011,10/22/2011,@,Purdue,NA,L,14,21,NA
+2011,10/29/2011,@,Penn State,NA,L,7,10,NA
+2011,11/12/2011,vs.,Michigan,NA,L,14,31,NA
+2011,11/19/2011,vs.,Wisconsin,NA,L,17,28,NA
+2011,11/26/2011,@,Minnesota,NA,L,7,27,NA
+2011,12/31/2011,"San Francisco, CA",UCLA,NA,W,20,14,Fight Hunger Bowl
+2010,9/4/2010,"St. Louis, MO",Missouri,NA,L,13,23,NA
+2010,9/11/2010,vs.,Southern Illinois,NA,W,35,3,NA
+2010,9/18/2010,vs.,Northern Illinois,NA,W,28,22,NA
+2010,10/2/2010,vs.,Ohio State,NA,L,13,24,NA
+2010,10/9/2010,@,Penn State,NA,W,33,13,NA
+2010,10/16/2010,@,Michigan State,NA,L,6,26,NA
+2010,10/23/2010,vs.,Indiana,NA,W,43,13,Homecoming
+2010,10/30/2010,vs.,Purdue,NA,W,44,10,NA
+2010,11/6/2010,@,Michigan,NA,L,65,67,NA
+2010,11/13/2010,vs.,Minnesota,NA,L,34,38,NA
+2010,11/20/2010,"Chicago, IL",Northwestern,NA,W,48,27,NA
+2010,12/3/2010,@,Fresno State,NA,L,23,25,NA
+2010,12/29/2010,"Houston, TX",Baylor,NA,W,38,14,Texas Bowl
+2009,9/5/2009,"St. Louis, MO",Missouri,NA,L,9,37,NA
+2009,9/12/2009,vs.,Illinois State,NA,W,45,17,NA
+2009,9/26/2009,@,Ohio State,NA,L,0,30,NA
+2009,10/3/2009,vs.,Penn State,NA,L,17,35,NA
+2009,10/10/2009,vs.,Michigan State,NA,L,14,24,Homecoming
+2009,10/17/2009,@,Indiana,NA,L,14,27,NA
+2009,10/24/2009,@,Purdue,NA,L,14,24,NA
+2009,10/31/2009,vs.,Michigan,NA,W,38,13,NA
+2009,11/7/2009,@,Minnesota,NA,W,35,32,NA
+2009,11/14/2009,vs.,Northwestern,NA,L,16,21,NA
+2009,11/27/2009,@,Cincinnati,NA,L,36,49,NA
+2009,12/5/2009,vs.,Fresno State,NA,L,52,53,NA
+2008,8/30/2008,"St. Louis, MO",Missouri,NA,L,42,52,NA
+2008,9/6/2008,vs.,Eastern Illinois,NA,W,47,21,NA
+2008,9/13/2008,vs.,Louisiana-Lafayette,NA,W,20,17,NA
+2008,9/27/2008,@,Penn State,NA,L,24,38,NA
+2008,10/4/2008,@,Michigan,NA,W,45,20,NA
+2008,10/11/2008,vs.,Minnesota,NA,L,20,27,Homecoming
+2008,10/18/2008,vs.,Indiana,NA,W,55,13,NA
+2008,10/25/2008,@,Wisconsin,NA,L,17,27,NA
+2008,11/1/2008,vs.,Iowa,NA,W,27,24,NA
+2008,11/8/2008,"Detroit, MI",Western Michigan,NA,L,17,23,NA
+2008,11/15/2008,vs.,Ohio State,NA,L,20,30,NA
+2008,11/22/2008,@,Northwestern,NA,L,10,27,NA
+2007,1/1/2008,"Pasadena, CA",Southern California,NA,L,17,49,Rose Bowl
+2007,9/1/2007,"St. Louis, MO",Missouri,NA,L,34,40,NA
+2007,9/8/2007,vs.,Western Illinois,NA,W,21,0,NA
+2007,9/15/2007,@,Syracuse,NA,W,41,20,NA
+2007,9/22/2007,@,Indiana,NA,W,27,14,NA
+2007,9/29/2007,vs.,Penn State,NA,W,27,20,NA
+2007,10/6/2007,vs.,Wisconsin,NA,W,31,26,NA
+2007,10/13/2007,@,Iowa,NA,L,6,10,NA
+2007,10/20/2007,vs.,Michigan,NA,L,17,27,NA
+2007,10/27/2007,vs.,Ball State,NA,W,28,17,Homecoming
+2007,11/3/2007,@,Minnesota,NA,W,44,17,NA
+2007,11/10/2007,@,Ohio State,NA,W,28,21,NA
+2007,11/17/2007,vs.,Northwestern,NA,W,41,22,NA
+2006,9/2/2006,vs.,Eastern Illinois,NA,W,42,17,NA
+2006,9/9/2006,@,Rutgers,NA,L,0,33,NA
+2006,9/16/2006,vs.,Syracuse,NA,L,21,31,NA
+2006,9/23/2006,vs.,Iowa,NA,L,7,24,NA
+2006,9/30/2006,@,Michigan State,NA,W,23,20,NA
+2006,10/7/2006,vs.,Indiana,NA,L,32,34,Homecoming
+2006,10/14/2006,vs.,Ohio,NA,L,17,20,NA
+2006,10/21/2006,@,Penn State,NA,L,12,26,NA
+2006,10/28/2006,@,Wisconsin,NA,L,24,30,NA
+2006,11/4/2006,vs.,Ohio State,NA,L,10,17,NA
+2006,11/11/2006,vs.,Purdue,NA,L,31,42,NA
+2006,11/18/2006,@,Northwestern,NA,L,16,27,NA
+2005,9/3/2005,vs.,Rutgers,NA,W,33,30,NA
+2005,9/10/2005,vs.,San Jose State,NA,W,40,19,NA
+2005,9/17/2005,@,California,NA,L,20,35,NA
+2005,9/24/2005,vs.,Michigan State,NA,L,14,61,NA
+2005,10/1/2005,@,Iowa,NA,L,7,35,NA
+2005,10/8/2005,@,Indiana,NA,L,13,36,NA
+2005,10/22/2005,vs.,Penn State,NA,L,10,63,Homecoming
+2005,10/29/2005,vs.,Wisconsin,NA,L,24,41,NA
+2005,11/5/2005,@,Ohio State,NA,L,2,40,NA
+2005,11/12/2005,@,Purdue,NA,L,3,37,NA
+2005,11/19/2005,vs.,Northwestern,NA,L,21,38,NA
+2004,9/4/2004,vs.,Florida A&M,NA,W,52,13,NA
+2004,9/11/2004,vs.,UCLA,NA,L,17,35,NA
+2004,9/18/2004,vs.,Western Michigan,NA,W,30,27,NA
+2004,9/25/2004,vs.,Purdue,NA,L,30,38,NA
+2004,10/2/2004,@,Wisconsin,NA,L,7,24,NA
+2004,10/9/2004,@,Michigan State,NA,L,25,38,NA
+2004,10/16/2004,vs.,Michigan,NA,L,19,30,NA
+2004,10/23/2004,@,Minnesota,NA,L,0,45,NA
+2004,10/30/2004,vs.,Iowa,NA,L,13,23,Homecoming
+2004,11/6/2004,vs.,Indiana,NA,W,26,22,NA
+2004,11/20/2004,@,Northwestern,NA,L,21,28,NA
+2003,8/30/2003,"St. Louis, MO",Missouri,NA,L,15,22,NA
+2003,9/6/2003,vs.,Illinois State,NA,W,49,22,NA
+2003,9/13/2003,@,UCLA,NA,L,3,6,NA
+2003,9/20/2003,vs.,California,NA,L,24,31,NA
+2003,9/27/2003,vs.,Wisconsin,NA,L,20,38,NA
+2003,10/4/2003,@,Purdue,NA,L,10,43,NA
+2003,10/11/2003,vs.,Michigan State,NA,L,14,49,NA
+2003,10/18/2003,@,Michigan,NA,L,14,56,NA
+2003,10/25/2003,vs.,Minnesota,NA,L,10,36,Homecoming
+2003,11/1/2003,@,Iowa,NA,L,10,41,NA
+2003,11/8/2003,@,Indiana,NA,L,14,17,NA
+2003,11/22/2003,vs.,Northwestern,NA,L,20,37,NA
+2002,8/31/2002,"St. Louis, MO",Missouri,NA,L,20,33,NA
+2002,9/7/2002,@,Southern Mississippi,NA,L,20,23,NA
+2002,9/14/2002,vs.,Arkansas State,NA,W,59,7,NA
+2002,9/21/2002,vs.,San Jose State,NA,L,35,38,NA
+2002,9/28/2002,vs.,Michigan,NA,L,28,45,NA
+2002,10/3/2002,@,Minnesota,NA,L,10,31,NA
+2002,10/12/2002,vs.,Purdue,NA,W,38,31,NA
+2002,10/26/2002,vs.,Indiana,NA,W,45,14,Homecoming
+2002,11/2/2002,@,Penn State,NA,L,7,18,NA
+2002,11/9/2002,@,Wisconsin,NA,W,37,20,NA
+2002,11/16/2002,vs.,Ohio State,NA,L,16,23,NA
+2002,11/23/2002,@,Northwestern,NA,W,31,24,NA
+2001,1/1/2002,"New Orleans, LA",Louisiana State,NA,L,34,47,Sugar Bowl
+2001,9/1/2001,@,California,NA,W,44,17,NA
+2001,9/8/2001,vs.,Northern Illinois,NA,W,17,12,NA
+2001,9/22/2001,vs.,Louisville,NA,W,34,10,NA
+2001,9/29/2001,@,Michigan,NA,L,20,45,NA
+2001,10/6/2001,vs.,Minnesota,NA,W,25,14,NA
+2001,10/13/2001,@,Indiana,NA,W,35,14,NA
+2001,10/20/2001,vs.,Wisconsin,NA,W,42,35,Homecoming
+2001,11/3/2001,@,Purdue,NA,W,38,13,NA
+2001,11/10/2001,vs.,Penn State,NA,W,33,28,NA
+2001,11/17/2001,@,Ohio State,NA,W,34,22,NA
+2001,11/22/2001,vs.,Northwestern,NA,W,34,28,NA
+2000,9/2/2000,vs.,Middle Tennessee State,NA,W,35,6,NA
+2000,9/9/2000,@,San Diego State,NA,W,49,13,NA
+2000,9/16/2000,vs.,California,NA,W,17,15,NA
+2000,9/23/2000,vs.,Michigan,NA,L,31,35,NA
+2000,9/30/2000,@,Minnesota,NA,L,10,44,NA
+2000,10/14/2000,vs.,Iowa,NA,W,31,0,Homecoming
+2000,10/21/2000,@,Penn State,NA,L,25,39,NA
+2000,10/28/2000,@,Michigan State,NA,L,10,14,NA
+2000,11/4/2000,vs.,Indiana,NA,W,42,35,NA
+2000,11/11/2000,vs.,Ohio State,NA,L,21,24,NA
+2000,11/18/2000,@,Northwestern,NA,L,23,61,NA
+1999,9/4/1999,vs.,Arkansas State,NA,W,41,3,NA
+1999,9/11/1999,vs.,San Diego State,NA,W,38,10,NA
+1999,9/18/1999,@,Louisville,NA,W,41,36,NA
+1999,9/25/1999,vs.,Michigan State,NA,L,10,27,NA
+1999,10/2/1999,@,Indiana,NA,L,31,34,NA
+1999,10/16/1999,vs.,Minnesota,NA,L,7,37,Homecoming
+1999,10/23/1999,@,Michigan,NA,W,35,29,NA
+1999,10/30/1999,vs.,Penn State,NA,L,7,27,NA
+1999,11/6/1999,@,Iowa,NA,W,40,24,NA
+1999,11/13/1999,@,Ohio State,NA,W,46,20,NA
+1999,11/20/1999,vs.,Northwestern,NA,W,29,7,NA
+1999,12/30/1999,"Miami, FL",Virginia,NA,W,63,21,Micron PC Bowl
+1998,9/5/1998,@,Washington State,NA,L,13,20,NA
+1998,9/12/1998,vs.,Middle Tennessee State,NA,W,48,20,NA
+1998,9/19/1998,vs.,Louisville,NA,L,9,35,NA
+1998,9/26/1998,vs.,Iowa,NA,L,14,37,NA
+1998,10/3/1998,@,Northwestern,NA,W,13,10,NA
+1998,10/10/1998,vs.,Ohio State,NA,L,0,41,NA
+1998,10/17/1998,vs.,Wisconsin,NA,L,3,37,Homecoming
+1998,10/24/1998,@,Purdue,NA,L,9,42,NA
+1998,10/31/1998,@,Penn State,NA,L,0,27,NA
+1998,11/7/1998,vs.,Indiana,NA,W,31,16,NA
+1998,11/21/1998,@,Michigan State,NA,L,9,41,NA
+1997,9/6/1997,vs.,Southern Mississippi,NA,L,7,24,NA
+1997,9/13/1997,@,Louisville,NA,L,14,26,NA
+1997,9/20/1997,vs.,Washington State,NA,L,22,35,NA
+1997,9/27/1997,@,Iowa,NA,L,10,38,NA
+1997,10/4/1997,vs.,Penn State,NA,L,6,41,NA
+1997,10/11/1997,@,Wisconsin,NA,L,7,31,NA
+1997,10/25/1997,vs.,Purdue,NA,L,3,48,Homecoming
+1997,11/1/1997,@,Indiana,NA,L,6,23,NA
+1997,11/8/1997,vs.,Northwestern,NA,L,21,34,NA
+1997,11/15/1997,@,Ohio State,NA,L,6,41,NA
+1997,11/22/1997,vs.,Michigan State,NA,L,17,27,NA
+1996,8/31/1996,@,Michigan,NA,L,8,20,NA
+1996,9/7/1996,vs.,Southern California,NA,L,3,55,NA
+1996,9/14/1996,@,Arizona,NA,L,0,41,NA
+1996,9/21/1996,vs.,Akron,NA,W,38,7,NA
+1996,10/5/1996,vs.,Indiana,NA,W,46,43,NA
+1996,10/12/1996,@,Michigan State,NA,L,14,42,NA
+1996,10/26/1996,@,Northwestern,NA,L,24,27,NA
+1996,11/2/1996,vs.,Iowa,NA,L,21,31,Homecoming
+1996,11/9/1996,vs.,Ohio State,NA,L,0,48,NA
+1996,11/16/1996,@,Minnesota,NA,L,21,23,NA
+1996,11/23/1996,vs.,Wisconsin,NA,L,15,35,NA
+1995,9/2/1995,vs.,Michigan,NA,L,14,38,NA
+1995,9/9/1995,@,Oregon,NA,L,31,34,NA
+1995,9/16/1995,vs.,Arizona,NA,W,9,7,NA
+1995,9/23/1995,vs.,East Carolina,NA,W,7,0,NA
+1995,10/7/1995,@,Indiana,NA,W,17,10,NA
+1995,10/14/1995,vs.,Michigan State,NA,L,21,27,NA
+1995,10/28/1995,vs.,Northwestern,NA,L,14,17,Homecoming
+1995,11/4/1995,@,Iowa,NA,W,26,7,NA
+1995,11/11/1995,@,Ohio State,NA,L,3,41,NA
+1995,11/18/1995,vs.,Minnesota,NA,W,48,14,NA
+1995,11/25/1995,@,Wisconsin,NA,T,3,3,NA
+1994,9/1/1994,"Chicago, IL",Washington State,NA,L,9,10,NA
+1994,9/10/1994,vs.,Missouri,NA,W,42,0,NA
+1994,9/17/1994,vs.,Northern Illinois,NA,W,34,10,NA
+1994,10/1/1994,vs.,Purdue,NA,L,16,22,Homecoming
+1994,10/8/1994,@,Ohio State,NA,W,24,10,NA
+1994,10/15/1994,vs.,Iowa,NA,W,47,7,NA
+1994,10/22/1994,vs.,Michigan,NA,L,14,19,NA
+1994,10/29/1994,@,Northwestern,NA,W,28,7,NA
+1994,11/5/1994,@,Minnesota,NA,W,21,17,NA
+1994,11/12/1994,vs.,Penn State,NA,L,31,35,NA
+1994,11/19/1994,@,Wisconsin,NA,L,13,19,NA
+1994,12/31/1994,"Memphis, TN",East Carolina,NA,W,30,0,Liberty Bowl
+1993,9/11/1993,@,Missouri,NA,L,3,31,NA
+1993,9/18/1993,vs.,Arizona,NA,L,14,16,NA
+1993,9/25/1993,vs.,Oregon,NA,L,7,13,NA
+1993,10/2/1993,@,Purdue,NA,W,28,10,NA
+1993,10/9/1993,vs.,Ohio State,NA,L,12,20,NA
+1993,10/16/1993,@,Iowa,NA,W,49,3,NA
+1993,10/23/1993,@,Michigan,NA,W,24,21,NA
+1993,10/30/1993,vs.,Northwestern,NA,W,20,13,Homecoming
+1993,11/6/1993,vs.,Minnesota,NA,W,23,20,NA
+1993,11/13/1993,@,Penn State,NA,L,14,28,NA
+1993,11/20/1993,vs.,Wisconsin,NA,L,10,35,NA
+1992,9/5/1992,vs.,Northern Illinois,NA,W,30,14,NA
+1992,9/12/1992,vs.,Missouri,NA,W,24,17,NA
+1992,9/19/1992,@,Houston,NA,L,13,31,NA
+1992,10/3/1992,@,Minnesota,NA,L,17,18,NA
+1992,10/10/1992,@,Ohio State,NA,W,18,16,NA
+1992,10/17/1992,vs.,Iowa,NA,L,14,24,NA
+1992,10/24/1992,vs.,Northwestern,NA,L,26,27,Homecoming
+1992,10/31/1992,@,Wisconsin,NA,W,13,12,NA
+1992,11/7/1992,vs.,Purdue,NA,W,20,17,NA
+1992,11/14/1992,@,Michigan,NA,T,22,22,NA
+1992,11/21/1992,vs.,Michigan State,NA,W,14,10,NA
+1992,12/30/1992,"San Diego, CA",Hawaii,NA,L,17,27,Holiday Bowl
+1991,8/31/1991,vs.,East Carolina,NA,W,38,31,NA
+1991,9/14/1991,@,Missouri,NA,L,19,23,NA
+1991,9/21/1991,vs.,Houston,NA,W,51,10,NA
+1991,10/5/1991,vs.,Minnesota,NA,W,24,3,Homecoming
+1991,10/12/1991,vs.,Ohio State,NA,W,10,7,NA
+1991,10/19/1991,@,Iowa,NA,L,21,24,NA
+1991,10/26/1991,@,Northwestern,NA,L,11,17,NA
+1991,11/2/1991,vs.,Wisconsin,NA,W,22,6,NA
+1991,11/9/1991,@,Purdue,NA,W,41,14,NA
+1991,11/16/1991,vs.,Michigan,NA,L,0,20,NA
+1991,11/23/1991,@,Michigan State,NA,L,24,27,NA
+1991,12/31/1991,"El Paso, TX",UCLA,NA,L,3,6,Sun Bowl
+1990,1/1/1991,"Tampa, FL",Clemson,NA,L,0,30,Hall of Fame Bowl
+1990,9/8/1990,@,Arizona,NA,L,16,28,NA
+1990,9/15/1990,vs.,Colorado,NA,W,23,22,NA
+1990,9/22/1990,vs.,Southern Illinois,NA,W,56,21,NA
+1990,10/6/1990,@,Ohio State,NA,W,31,20,NA
+1990,10/13/1990,vs.,Purdue,NA,W,34,0,NA
+1990,10/20/1990,vs.,Michigan State,NA,W,15,13,NA
+1990,10/27/1990,@,Wisconsin,NA,W,21,3,NA
+1990,11/3/1990,vs.,Iowa,NA,L,28,54,NA
+1990,11/10/1990,@,Michigan,NA,L,17,22,Homecoming
+1990,11/17/1990,@,Indiana,NA,W,24,10,NA
+1990,11/24/1990,vs.,Northwestern,NA,W,28,23,NA
+1989,1/1/1990,"Orlando, FL",Virginia,NA,W,31,21,Citrus Bowl
+1989,9/4/1989,@,Southern California,NA,W,14,13,NA
+1989,9/16/1989,@,Colorado,NA,L,7,38,NA
+1989,9/23/1989,vs.,Utah State,NA,W,41,2,NA
+1989,10/7/1989,vs.,Ohio State,NA,W,34,14,NA
+1989,10/14/1989,@,Purdue,NA,W,14,2,NA
+1989,10/21/1989,@,Michigan State,NA,W,14,10,NA
+1989,10/28/1989,vs.,Wisconsin,NA,W,32,9,Homecoming
+1989,11/4/1989,@,Iowa,NA,W,31,7,NA
+1989,11/11/1989,vs.,Michigan,NA,L,10,24,NA
+1989,11/18/1989,vs.,Indiana,NA,W,41,28,NA
+1989,11/25/1989,@,Northwestern,NA,W,63,14,NA
+1988,9/3/1988,vs.,Washington State,NA,L,7,44,NA
+1988,9/10/1988,@,Arizona State,NA,L,16,21,NA
+1988,9/17/1988,vs.,Utah,NA,W,35,24,NA
+1988,10/1/1988,@,Ohio State,NA,W,31,12,NA
+1988,10/8/1988,vs.,Purdue,NA,W,20,0,NA
+1988,10/15/1988,@,Wisconsin,NA,W,34,6,NA
+1988,10/22/1988,vs.,Michigan State,NA,L,21,28,Homecoming
+1988,10/29/1988,@,Minnesota,NA,T,27,27,NA
+1988,11/5/1988,vs.,Indiana,NA,W,21,20,NA
+1988,11/12/1988,@,Michigan,NA,L,9,38,NA
+1988,11/19/1988,vs.,Northwestern,NA,W,14,9,NA
+1988,12/29/1988,"Birmingham, AL",Florida,NA,L,10,14,All-American Bowl
+1987,9/5/1987,@,North Carolina,NA,L,14,34,NA
+1987,9/12/1987,vs.,Arizona State,NA,L,7,21,NA
+1987,9/19/1987,vs.,East Carolina,NA,W,20,10,NA
+1987,10/3/1987,vs.,Ohio State,NA,L,6,10,NA
+1987,10/10/1987,@,Purdue,NA,L,3,9,NA
+1987,10/17/1987,vs.,Wisconsin,NA,W,16,14,NA
+1987,10/24/1987,@,Michigan State,NA,T,14,14,NA
+1987,10/31/1987,vs.,Minnesota,NA,W,27,17,Homecoming
+1987,11/7/1987,@,Indiana,NA,L,22,34,NA
+1987,11/14/1987,vs.,Michigan,NA,L,14,17,NA
+1987,11/21/1987,@,Northwestern,NA,L,10,28,NA
+1986,9/6/1986,vs.,Louisville,NA,W,23,0,NA
+1986,9/13/1986,@,Southern California,NA,L,16,31,NA
+1986,9/20/1986,vs.,Nebraska,NA,L,14,59,NA
+1986,10/4/1986,@,Ohio State,NA,L,0,14,NA
+1986,10/11/1986,vs.,Purdue,NA,W,34,27,NA
+1986,10/18/1986,vs.,Michigan State,NA,L,21,29,Homecoming
+1986,10/25/1986,@,Wisconsin,NA,L,9,15,NA
+1986,11/1/1986,@,Michigan,NA,L,13,69,NA
+1986,11/8/1986,vs.,Iowa,NA,W,20,16,NA
+1986,11/15/1986,@,Indiana,NA,W,21,16,NA
+1986,11/22/1986,vs.,Northwestern,NA,L,18,23,NA
+1985,9/7/1985,vs.,Southern California,NA,L,10,20,NA
+1985,9/14/1985,vs.,Southern Illinois,NA,W,28,25,NA
+1985,9/21/1985,@,Nebraska,NA,L,25,52,NA
+1985,10/5/1985,vs.,Ohio State,NA,W,31,28,NA
+1985,10/12/1985,@,Purdue,NA,L,24,30,NA
+1985,10/19/1985,@,Michigan State,NA,W,30,17,NA
+1985,10/26/1985,vs.,Wisconsin,NA,W,38,25,Homecoming
+1985,11/2/1985,vs.,Michigan,NA,T,3,3,NA
+1985,11/9/1985,@,Iowa,NA,L,0,59,NA
+1985,11/16/1985,vs.,Indiana,NA,W,41,24,NA
+1985,11/23/1985,@,Northwestern,NA,W,45,20,NA
+1985,12/31/1985,"Atlanta, GA",Army,NA,L,29,31,Peach Bowl
+1984,9/1/1984,vs.,Northwestern,NA,W,24,16,NA
+1984,9/8/1984,vs.,Missouri,NA,W,30,24,NA
+1984,9/15/1984,@,Stanford,NA,L,19,34,NA
+1984,9/22/1984,vs.,Michigan State,NA,W,40,7,NA
+1984,9/29/1984,@,Iowa,NA,L,16,21,NA
+1984,10/6/1984,vs.,Wisconsin,NA,W,22,6,NA
+1984,10/13/1984,@,Ohio State,NA,L,38,45,NA
+1984,10/20/1984,vs.,Purdue,NA,W,34,20,NA
+1984,10/27/1984,@,Michigan,NA,L,18,26,NA
+1984,11/3/1984,vs.,Minnesota,NA,W,48,3,Homecoming
+1984,11/10/1984,"Indianapolis, IN",Indiana,NA,W,34,7,NA
+1983,1/2/1984,"Pasadena, CA",UCLA,NA,L,9,45,Rose Bowl
+1983,9/10/1983,@,Missouri,NA,L,18,28,NA
+1983,9/17/1983,vs.,Stanford,NA,W,17,7,NA
+1983,9/24/1983,@,Michigan State,NA,W,20,10,NA
+1983,10/1/1983,vs.,Iowa,NA,W,33,0,NA
+1983,10/8/1983,@,Wisconsin,NA,W,27,15,NA
+1983,10/15/1983,vs.,Ohio State,NA,W,17,13,Homecoming
+1983,10/22/1983,@,Purdue,NA,W,35,21,NA
+1983,10/29/1983,vs.,Michigan,NA,W,16,6,NA
+1983,11/5/1983,@,Minnesota,NA,W,50,23,NA
+1983,11/12/1983,vs.,Indiana,NA,W,49,21,NA
+1983,11/19/1983,@,Northwestern,NA,W,56,24,NA
+1982,9/4/1982,vs.,Northwestern,NA,W,49,13,NA
+1982,9/11/1982,vs.,Michigan State,NA,W,23,16,NA
+1982,9/18/1982,@,Syracuse,NA,W,47,10,NA
+1982,9/25/1982,vs.,Pittsburgh,NA,L,3,20,NA
+1982,10/2/1982,@,Minnesota,NA,W,42,24,NA
+1982,10/9/1982,vs.,Purdue,NA,W,38,34,NA
+1982,10/16/1982,vs.,Ohio State,NA,L,21,26,Homecoming
+1982,10/23/1982,@,Wisconsin,NA,W,29,28,NA
+1982,10/30/1982,@,Iowa,NA,L,13,14,NA
+1982,11/6/1982,vs.,Michigan,NA,L,10,16,NA
+1982,11/13/1982,@,Indiana,NA,W,48,7,NA
+1982,12/29/1982,"Memphis, TN",Alabama,NA,L,15,21,Liberty Bowl
+1981,9/5/1981,@,Pittsburgh,NA,L,6,26,NA
+1981,9/12/1981,@,Michigan State,NA,W,27,17,NA
+1981,9/19/1981,vs.,Syracuse,NA,W,17,14,NA
+1981,10/3/1981,vs.,Minnesota,NA,W,38,29,NA
+1981,10/10/1981,@,Purdue,NA,L,20,44,NA
+1981,10/17/1981,@,Ohio State,NA,L,27,34,NA
+1981,10/24/1981,vs.,Wisconsin,NA,W,23,21,Homecoming
+1981,10/31/1981,vs.,Iowa,NA,W,24,7,NA
+1981,11/7/1981,@,Michigan,NA,L,21,70,NA
+1981,11/14/1981,vs.,Indiana,NA,W,35,14,NA
+1981,11/21/1981,@,Northwestern,NA,W,49,12,NA
+1980,9/6/1980,vs.,Northwestern,NA,W,35,9,NA
+1980,9/13/1980,vs.,Michigan State,NA,W,20,17,NA
+1980,9/20/1980,@,Missouri,NA,L,7,52,NA
+1980,9/27/1980,vs.,Air Force,NA,T,20,20,NA
+1980,10/4/1980,vs.,Mississippi State,NA,L,21,28,NA
+1980,10/11/1980,@,Iowa,NA,W,20,14,NA
+1980,10/18/1980,vs.,Purdue,NA,L,20,45,NA
+1980,10/25/1980,@,Michigan,NA,L,14,45,NA
+1980,11/1/1980,vs.,Minnesota,NA,L,18,21,Homecoming
+1980,11/8/1980,@,Ohio State,NA,L,42,49,NA
+1980,11/15/1980,@,Indiana,NA,L,24,26,NA
+1979,9/8/1979,@,Michigan State,NA,L,16,33,NA
+1979,9/15/1979,vs.,Missouri,NA,L,6,14,NA
+1979,9/22/1979,@,Air Force,NA,W,27,19,NA
+1979,9/29/1979,vs.,Navy,NA,L,12,13,NA
+1979,10/6/1979,vs.,Iowa,NA,L,7,13,Homecoming
+1979,10/13/1979,@,Purdue,NA,L,14,28,NA
+1979,10/20/1979,vs.,Michigan,NA,L,7,27,NA
+1979,10/27/1979,@,Minnesota,NA,T,17,17,NA
+1979,11/3/1979,vs.,Ohio State,NA,L,7,44,NA
+1979,11/10/1979,vs.,Indiana,NA,L,14,45,NA
+1979,11/17/1979,@,Northwestern,NA,W,29,13,NA
+1978,9/9/1978,vs.,Northwestern,NA,T,0,0,NA
+1978,9/16/1978,@,Michigan,NA,L,0,31,NA
+1978,9/23/1978,vs.,Stanford,NA,L,10,35,NA
+1978,9/30/1978,@,Syracuse,NA,W,28,14,NA
+1978,10/7/1978,@,Missouri,NA,L,3,45,NA
+1978,10/14/1978,vs.,Wisconsin,NA,T,20,20,NA
+1978,10/21/1978,vs.,Purdue,NA,L,0,13,NA
+1978,10/28/1978,@,Indiana,NA,L,10,31,NA
+1978,11/4/1978,vs.,Michigan State,NA,L,19,59,Homecoming
+1978,11/11/1978,@,Ohio State,NA,L,7,45,NA
+1978,11/18/1978,@,Minnesota,NA,L,6,24,NA
+1977,9/10/1977,vs.,Michigan,NA,L,9,37,NA
+1977,9/17/1977,vs.,Missouri,NA,W,11,7,NA
+1977,9/24/1977,@,Stanford,NA,L,24,37,NA
+1977,10/1/1977,vs.,Syracuse,NA,L,20,30,NA
+1977,10/8/1977,@,Wisconsin,NA,L,0,26,NA
+1977,10/15/1977,@,Purdue,NA,W,29,22,NA
+1977,10/22/1977,vs.,Indiana,NA,W,21,7,NA
+1977,10/29/1977,@,Michigan State,NA,L,20,49,NA
+1977,11/5/1977,vs.,Ohio State,NA,L,0,35,Homecoming
+1977,11/12/1977,vs.,Minnesota,NA,L,0,21,NA
+1977,11/19/1977,@,Northwestern,NA,L,7,21,NA
+1976,9/11/1976,vs.,Iowa,NA,W,24,6,NA
+1976,9/18/1976,@,Missouri,NA,W,31,6,NA
+1976,9/25/1976,vs.,Baylor,NA,L,19,34,NA
+1976,10/2/1976,vs.,Texas A&M,NA,L,7,14,NA
+1976,10/9/1976,@,Minnesota,NA,L,14,29,NA
+1976,10/16/1976,@,Purdue,NA,W,21,17,NA
+1976,10/23/1976,vs.,Michigan State,NA,L,23,31,NA
+1976,10/30/1976,vs.,Wisconsin,NA,W,31,25,Homecoming
+1976,11/6/1976,@,Ohio State,NA,L,10,42,NA
+1976,11/13/1976,@,Michigan,NA,L,7,38,NA
+1976,11/20/1976,vs.,Northwestern,NA,W,48,6,NA
+1975,9/13/1975,@,Iowa,NA,W,27,12,NA
+1975,9/20/1975,vs.,Missouri,NA,L,20,30,NA
+1975,9/27/1975,@,Texas A&M,NA,L,13,43,NA
+1975,10/4/1975,vs.,Washington State,NA,W,27,21,NA
+1975,10/11/1975,vs.,Minnesota,NA,W,42,23,NA
+1975,10/18/1975,vs.,Purdue,NA,L,24,26,Homecoming
+1975,10/25/1975,@,Michigan State,NA,W,21,19,NA
+1975,11/1/1975,@,Wisconsin,NA,L,9,18,NA
+1975,11/8/1975,vs.,Ohio State,NA,L,3,40,NA
+1975,11/15/1975,vs.,Michigan,NA,L,15,21,NA
+1975,11/22/1975,@,Northwestern,NA,W,28,7,NA
+1974,9/14/1974,vs.,Indiana,NA,W,16,0,NA
+1974,9/21/1974,@,Stanford,NA,W,41,7,NA
+1974,9/28/1974,vs.,Washington State,NA,W,21,19,NA
+1974,10/5/1974,vs.,California,NA,L,14,31,NA
+1974,10/12/1974,@,Purdue,NA,W,27,23,NA
+1974,10/19/1974,vs.,Michigan State,NA,T,21,21,NA
+1974,10/26/1974,@,Iowa,NA,L,12,14,NA
+1974,11/2/1974,@,Ohio State,NA,L,7,49,NA
+1974,11/9/1974,vs.,Michigan,NA,L,6,14,Homecoming
+1974,11/16/1974,@,Minnesota,NA,W,17,14,NA
+1974,11/23/1974,vs.,Northwestern,NA,W,28,14,NA
+1973,9/15/1973,@,Indiana,NA,W,28,14,NA
+1973,9/22/1973,@,California,NA,W,27,7,NA
+1973,9/29/1973,vs.,West Virginia,NA,L,10,17,NA
+1973,10/6/1973,vs.,Stanford,NA,L,0,24,NA
+1973,10/13/1973,vs.,Purdue,NA,W,15,13,NA
+1973,10/20/1973,@,Michigan State,NA,W,6,3,NA
+1973,10/27/1973,vs.,Iowa,NA,W,50,0,Homecoming
+1973,11/3/1973,vs.,Ohio State,NA,L,0,30,NA
+1973,11/10/1973,@,Michigan,NA,L,6,21,NA
+1973,11/17/1973,vs.,Minnesota,NA,L,16,19,NA
+1973,11/24/1973,@,Northwestern,NA,L,6,9,NA
+1972,9/16/1972,vs.,Michigan State,NA,L,0,24,NA
+1972,9/23/1972,vs.,Southern California,NA,L,20,55,NA
+1972,9/30/1972,@,Washington,NA,L,11,31,NA
+1972,10/7/1972,vs.,Penn State,NA,L,17,35,NA
+1972,10/14/1972,@,Ohio State,NA,L,7,26,NA
+1972,10/21/1972,vs.,Michigan,NA,L,7,31,Homecoming
+1972,10/28/1972,@,Purdue,NA,L,14,20,NA
+1972,11/4/1972,@,Northwestern,NA,W,43,13,NA
+1972,11/11/1972,vs.,Indiana,NA,W,37,20,NA
+1972,11/18/1972,vs.,Wisconsin,NA,W,27,7,NA
+1972,11/25/1972,@,Iowa,NA,L,14,15,NA
+1971,9/11/1971,@,Michigan State,NA,L,0,10,NA
+1971,9/18/1971,vs.,North Carolina,NA,L,0,27,NA
+1971,9/25/1971,@,Southern California,NA,L,0,28,NA
+1971,10/2/1971,vs.,Washington,NA,L,14,52,NA
+1971,10/9/1971,vs.,Ohio State,NA,L,10,24,NA
+1971,10/16/1971,@,Michigan,NA,L,6,35,NA
+1971,10/23/1971,vs.,Purdue,NA,W,21,7,Homecoming
+1971,10/30/1971,vs.,Northwestern,NA,W,24,7,NA
+1971,11/6/1971,@,Indiana,NA,W,22,21,NA
+1971,11/13/1971,@,Wisconsin,NA,W,35,27,NA
+1971,11/20/1971,vs.,Iowa,NA,W,31,0,NA
+1970,9/19/1970,vs.,Oregon,NA,W,20,16,NA
+1970,9/26/1970,vs.,Tulane,NA,L,9,23,NA
+1970,10/3/1970,vs.,Syracuse,NA,W,27,0,NA
+1970,10/10/1970,@,Northwestern,NA,L,0,48,NA
+1970,10/17/1970,vs.,Indiana,NA,L,24,30,Homecoming
+1970,10/24/1970,vs.,Ohio State,NA,L,29,48,NA
+1970,10/31/1970,@,Purdue,NA,W,23,21,NA
+1970,11/7/1970,@,Michigan,NA,L,0,42,NA
+1970,11/14/1970,vs.,Wisconsin,NA,L,17,29,NA
+1970,11/21/1970,@,Iowa,NA,L,16,22,NA
+1969,9/20/1969,vs.,Washington State,NA,L,18,19,NA
+1969,9/27/1969,"St. Louis, MO",Missouri,NA,L,6,37,NA
+1969,10/4/1969,vs.,Iowa State,NA,L,20,48,NA
+1969,10/11/1969,vs.,Northwestern,NA,L,6,10,NA
+1969,10/18/1969,@,Indiana,NA,L,20,41,NA
+1969,10/25/1969,@,Ohio State,NA,L,0,41,NA
+1969,11/1/1969,vs.,Purdue,NA,L,22,49,Homecoming
+1969,11/8/1969,vs.,Michigan,NA,L,0,57,NA
+1969,11/15/1969,@,Wisconsin,NA,L,14,55,NA
+1969,11/22/1969,vs.,Iowa,NA,L,0,40,NA
+1968,9/21/1968,vs.,Kansas,NA,L,7,47,NA
+1968,9/28/1968,vs.,Missouri,NA,L,0,44,NA
+1968,10/5/1968,@,Indiana,NA,L,14,28,NA
+1968,10/12/1968,@,Minnesota,NA,L,10,17,NA
+1968,10/19/1968,@,Notre Dame,NA,L,8,58,NA
+1968,10/26/1968,vs.,Ohio State,NA,L,24,31,Homecoming
+1968,11/2/1968,@,Purdue,NA,L,17,35,NA
+1968,11/9/1968,@,Michigan,NA,L,0,36,NA
+1968,11/16/1968,vs.,Northwestern,NA,W,14,0,NA
+1968,11/23/1968,vs.,Iowa,NA,L,13,37,NA
+1967,9/23/1967,@,Florida,NA,L,0,14,NA
+1967,9/30/1967,vs.,Pittsburgh,NA,W,34,6,NA
+1967,10/7/1967,vs.,Indiana,NA,L,7,20,NA
+1967,10/14/1967,vs.,Minnesota,NA,L,7,10,Homecoming
+1967,10/21/1967,vs.,Notre Dame,NA,L,7,47,NA
+1967,10/28/1967,@,Ohio State,NA,W,17,13,NA
+1967,11/4/1967,vs.,Purdue,NA,L,9,42,NA
+1967,11/11/1967,vs.,Michigan,NA,L,14,21,NA
+1967,11/18/1967,@,Northwestern,NA,W,27,21,NA
+1967,11/25/1967,@,Iowa,NA,W,21,19,NA
+1966,9/17/1966,@,Southern Methodist,NA,L,7,26,NA
+1966,9/24/1966,vs.,Missouri,NA,L,14,21,NA
+1966,10/1/1966,vs.,Michigan State,NA,L,10,26,NA
+1966,10/8/1966,vs.,Ohio State,NA,W,10,9,NA
+1966,10/15/1966,@,Indiana,NA,W,24,10,NA
+1966,10/22/1966,vs.,Stanford,NA,L,3,6,Homecoming
+1966,10/29/1966,@,Purdue,NA,L,21,25,NA
+1966,11/5/1966,@,Michigan,NA,W,28,21,NA
+1966,11/12/1966,vs.,Wisconsin,NA,W,49,14,NA
+1966,11/19/1966,@,Northwestern,NA,L,7,35,NA
+1965,9/18/1965,vs.,Oregon State,NA,L,10,12,NA
+1965,9/25/1965,vs.,Southern Methodist,NA,W,42,0,NA
+1965,10/2/1965,@,Michigan State,NA,L,12,22,NA
+1965,10/9/1965,@,Ohio State,NA,L,14,28,NA
+1965,10/16/1965,vs.,Indiana,NA,W,34,13,Homecoming
+1965,10/23/1965,vs.,Duke,NA,W,28,14,NA
+1965,10/30/1965,vs.,Purdue,NA,W,21,0,NA
+1965,11/6/1965,vs.,Michigan,NA,L,3,23,NA
+1965,11/13/1965,@,Wisconsin,NA,W,51,0,NA
+1965,11/20/1965,@,Northwestern,NA,W,20,6,NA
+1964,9/26/1964,@,California,NA,W,20,14,NA
+1964,10/3/1964,@,Northwestern,NA,W,17,6,NA
+1964,10/10/1964,vs.,Ohio State,NA,L,0,26,Homecoming
+1964,10/17/1964,@,Minnesota,NA,W,14,0,NA
+1964,10/24/1964,vs.,UCLA,NA,W,26,7,NA
+1964,10/31/1964,@,Purdue,NA,L,14,26,NA
+1964,11/7/1964,@,Michigan,NA,L,6,21,NA
+1964,11/14/1964,vs.,Wisconsin,NA,W,29,0,NA
+1964,11/21/1964,vs.,Michigan State,NA,W,16,0,NA
+1963,1/1/1964,"Pasadena, CA",Washington,NA,W,17,7,Rose Bowl
+1963,9/28/1963,vs.,California,NA,W,10,0,NA
+1963,10/5/1963,vs.,Northwestern,NA,W,10,9,NA
+1963,10/12/1963,@,Ohio State,NA,T,20,20,NA
+1963,10/19/1963,vs.,Minnesota,NA,W,16,6,Homecoming
+1963,10/25/1963,@,UCLA,NA,W,18,12,NA
+1963,11/2/1963,vs.,Purdue,NA,W,41,21,NA
+1963,11/9/1963,vs.,Michigan,NA,L,8,14,NA
+1963,11/16/1963,@,Wisconsin,NA,W,17,7,NA
+1963,11/28/1963,@,Michigan State,NA,W,13,0,NA
+1962,9/29/1962,@,Washington,NA,L,7,28,NA
+1962,10/6/1962,@,Northwestern,NA,L,0,45,NA
+1962,10/13/1962,vs.,Ohio State,NA,L,15,51,Homecoming
+1962,10/20/1962,@,Minnesota,NA,L,0,17,NA
+1962,10/27/1962,vs.,Southern California,NA,L,16,28,NA
+1962,11/3/1962,@,Purdue,NA,W,14,10,NA
+1962,11/10/1962,@,Michigan,NA,L,10,14,NA
+1962,11/17/1962,vs.,Wisconsin,NA,L,6,35,NA
+1962,11/24/1962,vs.,Michigan State,NA,W,7,6,NA
+1961,9/30/1961,vs.,Washington,NA,L,7,20,NA
+1961,10/7/1961,vs.,Northwestern,NA,L,7,28,NA
+1961,10/14/1961,@,Ohio State,NA,L,0,44,NA
+1961,10/21/1961,vs.,Minnesota,NA,L,0,33,Homecoming
+1961,10/28/1961,@,Southern California,NA,L,10,14,NA
+1961,11/4/1961,vs.,Purdue,NA,L,9,23,NA
+1961,11/11/1961,vs.,Michigan,NA,L,6,38,NA
+1961,11/18/1961,@,Wisconsin,NA,L,7,55,NA
+1961,11/25/1961,@,Michigan State,NA,L,7,34,NA
+1960,9/24/1960,vs.,Indiana,NA,W,17,6,NA
+1960,10/1/1960,vs.,West Virginia,NA,W,33,0,NA
+1960,10/8/1960,vs.,Ohio State,NA,L,7,34,Homecoming
+1960,10/15/1960,@,Minnesota,NA,L,10,21,NA
+1960,10/22/1960,vs.,Penn State,NA,W,10,8,NA
+1960,10/29/1960,@,Purdue,NA,W,14,12,NA
+1960,11/5/1960,@,Michigan,NA,L,7,8,NA
+1960,11/12/1960,vs.,Wisconsin,NA,W,35,14,NA
+1960,11/19/1960,@,Northwestern,NA,L,7,14,NA
+1959,9/26/1959,@,Indiana,NA,L,0,20,NA
+1959,10/3/1959,vs.,Army,NA,W,20,14,NA
+1959,10/10/1959,@,Ohio State,NA,W,9,0,NA
+1959,10/17/1959,vs.,Minnesota,NA,W,14,6,Homecoming
+1959,10/24/1959,"Cleveland, OH",Penn State,NA,L,9,20,NA
+1959,10/31/1959,vs.,Purdue,NA,T,7,7,NA
+1959,11/7/1959,vs.,Michigan,NA,L,15,20,NA
+1959,11/14/1959,@,Wisconsin,NA,W,9,6,NA
+1959,11/21/1959,vs.,Northwestern,NA,W,28,0,NA
+1958,9/27/1958,vs.,UCLA,NA,L,14,18,NA
+1958,10/4/1958,@,Duke,NA,L,13,15,NA
+1958,10/11/1958,vs.,Ohio State,NA,L,13,19,NA
+1958,10/18/1958,@,Minnesota,NA,W,20,8,NA
+1958,10/25/1958,vs.,Michigan State,NA,W,16,0,Homecoming
+1958,11/1/1958,@,Purdue,NA,L,8,31,NA
+1958,11/8/1958,@,Michigan,NA,W,21,8,NA
+1958,11/15/1958,vs.,Wisconsin,NA,L,12,31,NA
+1958,11/22/1958,vs.,Northwestern,NA,W,27,20,NA
+1957,9/27/1957,@,UCLA,NA,L,6,16,NA
+1957,10/5/1957,vs.,Colgate,NA,W,40,0,NA
+1957,10/12/1957,@,Ohio State,NA,L,7,21,NA
+1957,10/19/1957,vs.,Minnesota,NA,W,34,13,Homecoming
+1957,10/26/1957,@,Michigan State,NA,L,14,19,NA
+1957,11/2/1957,vs.,Purdue,NA,L,6,21,NA
+1957,11/9/1957,vs.,Michigan,NA,W,20,19,NA
+1957,11/16/1957,@,Wisconsin,NA,L,13,24,NA
+1957,11/23/1957,vs.,Northwestern,NA,W,27,0,NA
+1956,9/29/1956,vs.,California,NA,W,32,20,NA
+1956,10/6/1956,@,Washington,NA,L,13,28,NA
+1956,10/13/1956,vs.,Ohio State,NA,L,6,26,NA
+1956,10/20/1956,@,Minnesota,NA,L,13,16,NA
+1956,10/27/1956,vs.,Michigan State,NA,W,20,13,Homecoming
+1956,11/3/1956,@,Purdue,NA,T,7,7,NA
+1956,11/10/1956,@,Michigan,NA,L,7,17,NA
+1956,11/17/1956,vs.,Wisconsin,NA,T,13,13,NA
+1956,11/24/1956,@,Northwestern,NA,L,13,14,NA
+1955,9/24/1955,@,California,NA,W,20,13,NA
+1955,10/1/1955,vs.,Iowa State,NA,W,40,0,NA
+1955,10/8/1955,@,Ohio State,NA,L,12,27,NA
+1955,10/15/1955,vs.,Minnesota,NA,W,21,13,NA
+1955,10/22/1955,@,Michigan State,NA,L,7,21,NA
+1955,10/29/1955,vs.,Purdue,NA,L,0,13,Homecoming
+1955,11/5/1955,vs.,Michigan,NA,W,25,6,NA
+1955,11/12/1955,@,Wisconsin,NA,W,17,14,NA
+1955,11/19/1955,@,Northwestern,NA,T,7,7,NA
+1954,9/25/1954,vs.,Penn State,NA,L,12,14,NA
+1954,10/2/1954,@,Stanford,NA,L,2,12,NA
+1954,10/9/1954,vs.,Ohio State,NA,L,7,40,NA
+1954,10/16/1954,@,Minnesota,NA,L,6,19,NA
+1954,10/23/1954,vs.,Syracuse,NA,W,34,6,NA
+1954,10/30/1954,@,Purdue,NA,L,14,28,NA
+1954,11/6/1954,@,Michigan,NA,L,7,14,NA
+1954,11/13/1954,vs.,Wisconsin,NA,L,14,27,Homecoming
+1954,11/20/1954,vs.,Northwestern,NA,L,7,20,NA
+1953,9/26/1953,vs.,Nebraska,NA,T,21,21,NA
+1953,10/3/1953,vs.,Stanford,NA,W,33,21,NA
+1953,10/10/1953,@,Ohio State,NA,W,41,20,NA
+1953,10/17/1953,vs.,Minnesota,NA,W,27,7,NA
+1953,10/24/1953,vs.,Syracuse,NA,W,20,13,NA
+1953,10/31/1953,vs.,Purdue,NA,W,21,0,NA
+1953,11/7/1953,vs.,Michigan,NA,W,19,3,Homecoming
+1953,11/14/1953,@,Wisconsin,NA,L,7,34,NA
+1953,11/21/1953,@,Northwestern,NA,W,39,14,NA
+1952,9/27/1952,vs.,Iowa State,NA,W,33,7,NA
+1952,10/4/1952,@,Wisconsin,NA,L,6,20,NA
+1952,10/11/1952,vs.,Washington,NA,W,48,14,NA
+1952,10/18/1952,@,Minnesota,NA,L,7,13,NA
+1952,10/25/1952,vs.,Purdue,NA,L,12,40,Homecoming
+1952,11/1/1952,@,Michigan,NA,W,22,13,NA
+1952,11/8/1952,@,Iowa,NA,W,33,13,NA
+1952,11/15/1952,vs.,Ohio State,NA,L,7,27,NA
+1952,11/22/1952,vs.,Northwestern,NA,L,26,28,NA
+1951,1/1/1952,"Pasadena, CA",Stanford,NA,W,40,7,Rose Bowl
+1951,9/29/1951,vs.,UCLA,NA,W,27,13,NA
+1951,10/6/1951,vs.,Wisconsin,NA,W,14,10,NA
+1951,10/13/1951,@,Syracuse,NA,W,41,20,NA
+1951,10/20/1951,@,Washington,NA,W,27,20,NA
+1951,10/27/1951,@,Indiana,NA,W,21,0,NA
+1951,11/3/1951,vs.,Michigan,NA,W,7,0,NA
+1951,11/10/1951,vs.,Iowa,NA,W,40,13,Homecoming
+1951,11/17/1951,@,Ohio State,NA,T,0,0,NA
+1951,11/24/1951,@,Northwestern,NA,W,3,0,NA
+1950,9/30/1950,vs.,Ohio,NA,W,28,2,NA
+1950,10/7/1950,vs.,Wisconsin,NA,L,6,7,NA
+1950,10/13/1950,@,UCLA,NA,W,14,6,NA
+1950,10/21/1950,vs.,Washington,NA,W,20,13,NA
+1950,10/28/1950,vs.,Indiana,NA,W,20,0,Homecoming
+1950,11/4/1950,@,Michigan,NA,W,7,0,NA
+1950,11/11/1950,@,Iowa,NA,W,21,7,NA
+1950,11/18/1950,vs.,Ohio State,NA,W,14,7,NA
+1950,11/25/1950,@,Northwestern,NA,L,7,14,NA
+1949,9/24/1949,vs.,Iowa State,NA,T,20,20,NA
+1949,10/1/1949,vs.,Wisconsin,NA,T,13,13,NA
+1949,10/8/1949,@,Iowa,NA,W,20,14,NA
+1949,10/15/1949,vs.,Missouri,NA,L,20,27,NA
+1949,10/22/1949,@,Purdue,NA,W,19,0,NA
+1949,10/29/1949,vs.,Michigan,NA,L,0,13,NA
+1949,11/5/1949,vs.,Indiana,NA,W,33,14,NA
+1949,11/12/1949,@,Ohio State,NA,L,17,30,NA
+1949,11/19/1949,vs.,Northwestern,NA,L,7,9,Homecoming
+1948,9/25/1948,vs.,Kansas State,NA,W,40,0,NA
+1948,10/2/1948,@,Wisconsin,NA,L,16,20,NA
+1948,10/9/1948,vs.,Army,NA,L,21,26,NA
+1948,10/16/1948,@,Minnesota,NA,L,0,6,NA
+1948,10/23/1948,vs.,Purdue,NA,W,10,6,NA
+1948,10/30/1948,@,Michigan,NA,L,20,28,NA
+1948,11/6/1948,vs.,Iowa,NA,W,14,0,NA
+1948,11/13/1948,vs.,Ohio State,NA,L,7,34,Homecoming
+1948,11/20/1948,@,Northwestern,NA,L,7,20,NA
+1947,9/27/1947,vs.,Pittsburgh,NA,W,14,0,NA
+1947,10/4/1947,@,Iowa,NA,W,35,12,NA
+1947,10/11/1947,"Bronx, NY",Army,NA,T,0,0,NA
+1947,10/18/1947,vs.,Minnesota,NA,W,40,13,NA
+1947,10/25/1947,@,Purdue,NA,L,7,14,NA
+1947,11/1/1947,vs.,Michigan,NA,L,7,14,Homecoming
+1947,11/8/1947,vs.,Western Michigan,NA,W,60,14,NA
+1947,11/15/1947,@,Ohio State,NA,W,28,7,NA
+1947,11/22/1947,vs.,Northwestern,NA,L,13,28,NA
+1946,1/1/1947,"Pasadena, CA",UCLA,NA,W,45,14,Rose Bowl
+1946,9/21/1946,@,Pittsburgh,NA,W,33,7,NA
+1946,9/28/1946,vs.,Notre Dame,NA,L,6,26,NA
+1946,10/5/1946,vs.,Purdue,NA,W,43,7,NA
+1946,10/12/1946,@,Indiana,NA,L,7,14,NA
+1946,10/19/1946,vs.,Wisconsin,NA,W,27,21,Homecoming
+1946,10/26/1946,@,Michigan,NA,W,13,9,NA
+1946,11/2/1946,@,Iowa,NA,W,7,0,NA
+1946,11/16/1946,vs.,Ohio State,NA,W,16,7,NA
+1946,11/23/1946,@,Northwestern,NA,W,20,0,NA
+1945,9/22/1945,vs.,Pittsburgh,NA,W,23,6,NA
+1945,9/29/1945,@,Notre Dame,NA,L,0,7,NA
+1945,10/6/1945,vs.,Indiana,NA,L,0,6,NA
+1945,10/20/1945,@,Wisconsin,NA,T,7,7,NA
+1945,10/27/1945,vs.,Michigan,NA,L,0,19,Homecoming
+1945,11/3/1945,vs.,Great Lakes Navy,NA,L,6,12,NA
+1945,11/10/1945,vs.,Iowa,NA,W,48,7,NA
+1945,11/17/1945,@,Ohio State,NA,L,2,27,NA
+1945,11/24/1945,@,Northwestern,NA,L,7,13,NA
+1944,9/16/1944,vs.,Illinois State,NA,W,79,0,NA
+1944,9/23/1944,vs.,Indiana,NA,W,26,18,NA
+1944,9/30/1944,@,Great Lakes Navy,NA,T,26,26,NA
+1944,10/7/1944,vs.,Purdue,NA,L,19,35,NA
+1944,10/14/1944,vs.,Iowa,NA,W,40,6,NA
+1944,10/21/1944,@,Pittsburgh,NA,W,39,5,NA
+1944,10/28/1944,vs.,Notre Dame,NA,L,7,13,Homecoming
+1944,11/11/1944,@,Michigan,NA,L,0,14,NA
+1944,11/18/1944,"Cleveland, OH",Ohio State,NA,L,12,26,NA
+1944,11/25/1944,@,Northwestern,NA,W,25,6,NA
+1943,9/11/1943,vs.,Camp Grant,NA,L,0,23,NA
+1943,9/18/1943,vs.,Iowa Pre-Flight,NA,L,18,32,NA
+1943,10/2/1943,@,Purdue,NA,L,21,40,NA
+1943,10/9/1943,@,Wisconsin,NA,W,25,7,NA
+1943,10/16/1943,vs.,Pittsburgh,NA,W,33,25,NA
+1943,10/23/1943,@,Notre Dame,NA,L,0,47,NA
+1943,10/30/1943,vs.,Michigan,NA,L,6,42,Homecoming
+1943,11/6/1943,@,Iowa,NA,W,19,10,NA
+1943,11/13/1943,@,Ohio State,NA,L,26,29,NA
+1943,11/20/1943,@,Northwestern,NA,L,6,53,NA
+1942,9/26/1942,vs.,South Dakota,NA,W,46,0,NA
+1942,10/3/1942,vs.,Butler,NA,W,67,0,NA
+1942,10/10/1942,vs.,Minnesota,NA,W,20,13,Homecoming
+1942,10/17/1942,@,Iowa,NA,W,12,7,NA
+1942,10/24/1942,vs.,Notre Dame,NA,L,14,21,NA
+1942,10/31/1942,@,Michigan,NA,L,14,28,NA
+1942,11/7/1942,@,Northwestern,NA,W,14,7,NA
+1942,11/14/1942,"Cleveland, OH",Ohio State,NA,L,20,44,NA
+1942,11/21/1942,vs.,Great Lakes Navy,NA,L,0,6,NA
+1942,11/28/1942,@,Camp Grant,NA,W,20,0,NA
+1941,10/4/1941,vs.,Miami,NA,W,45,0,NA
+1941,10/11/1941,@,Minnesota,NA,L,6,34,NA
+1941,10/18/1941,vs.,Drake,NA,W,40,0,NA
+1941,10/25/1941,@,Notre Dame,NA,L,14,49,NA
+1941,11/1/1941,vs.,Michigan,NA,L,0,20,Homecoming
+1941,11/8/1941,vs.,Iowa,NA,L,0,21,NA
+1941,11/15/1941,@,Ohio State,NA,L,7,12,NA
+1941,11/22/1941,@,Northwestern,NA,L,0,27,NA
+1940,10/5/1940,vs.,Bradley,NA,W,31,0,NA
+1940,10/12/1940,vs.,Southern California,NA,L,7,13,NA
+1940,10/19/1940,@,Michigan,NA,L,0,28,NA
+1940,10/26/1940,vs.,Notre Dame,NA,L,0,26,Homecoming
+1940,11/2/1940,@,Wisconsin,NA,L,6,13,NA
+1940,11/9/1940,@,Northwestern,NA,L,14,32,NA
+1940,11/16/1940,vs.,Ohio State,NA,L,6,14,NA
+1940,11/23/1940,@,Iowa,NA,L,7,18,NA
+1939,9/30/1939,vs.,Bradley,NA,T,0,0,NA
+1939,10/14/1939,@,Southern California,NA,L,0,26,NA
+1939,10/21/1939,vs.,Indiana,NA,L,6,7,NA
+1939,10/28/1939,@,Northwestern,NA,L,0,13,NA
+1939,11/4/1939,vs.,Michigan,NA,W,16,7,Homecoming
+1939,11/11/1939,vs.,Wisconsin,NA,W,7,0,NA
+1939,11/18/1939,@,Ohio State,NA,L,0,21,NA
+1939,11/25/1939,@,Chicago,NA,W,46,0,NA
+1938,9/24/1938,vs.,Ohio,NA,L,0,6,NA
+1938,10/1/1938,vs.,DePaul,NA,W,44,7,NA
+1938,10/8/1938,vs.,Indiana,NA,W,12,2,NA
+1938,10/15/1938,@,Notre Dame,NA,L,6,14,NA
+1938,10/22/1938,vs.,Northwestern,NA,L,0,13,Homecoming
+1938,10/29/1938,@,Michigan,NA,L,0,14,NA
+1938,11/12/1938,vs.,Ohio State,NA,L,14,32,NA
+1938,11/19/1938,@,Chicago,NA,W,34,0,NA
+1937,9/25/1937,vs.,Ohio,NA,W,20,6,NA
+1937,10/2/1937,vs.,DePaul,NA,T,0,0,NA
+1937,10/9/1937,vs.,Notre Dame,NA,T,0,0,NA
+1937,10/16/1937,@,Indiana,NA,L,6,13,NA
+1937,10/30/1937,vs.,Michigan,NA,L,6,7,Homecoming
+1937,11/6/1937,@,Northwestern,NA,W,6,0,NA
+1937,11/13/1937,@,Ohio State,NA,L,0,19,NA
+1937,11/20/1937,vs.,Chicago,NA,W,21,0,NA
+1936,9/26/1936,vs.,DePaul,NA,W,9,6,NA
+1936,10/3/1936,vs.,Washington,NA,W,13,7,NA
+1936,10/10/1936,vs.,Southern California,NA,L,6,24,NA
+1936,10/17/1936,@,Iowa,NA,T,0,0,NA
+1936,10/24/1936,vs.,Northwestern,NA,L,2,13,Homecoming
+1936,10/31/1936,@,Michigan,NA,W,9,6,NA
+1936,11/14/1936,vs.,Ohio State,NA,L,0,13,NA
+1936,11/21/1936,@,Chicago,NA,W,18,7,NA
+1935,9/28/1935,vs.,Ohio,NA,L,0,6,NA
+1935,10/5/1935,vs.,Washington,NA,W,28,6,NA
+1935,10/12/1935,@,Southern California,NA,W,19,0,NA
+1935,10/26/1935,vs.,Iowa,NA,L,0,19,NA
+1935,11/2/1935,@,Northwestern,NA,L,3,10,NA
+1935,11/9/1935,vs.,Michigan,NA,W,3,0,Homecoming
+1935,11/16/1935,@,Ohio State,NA,L,0,6,NA
+1935,11/23/1935,vs.,Chicago,NA,L,6,7,NA
+1934,9/29/1934,vs.,Bradley,NA,W,40,7,NA
+1934,10/6/1934,@,Washington,NA,W,12,7,NA
+1934,10/13/1934,vs.,Ohio State,NA,W,14,13,Homecoming
+1934,10/27/1934,@,Michigan,NA,W,7,6,NA
+1934,11/3/1934,vs.,Army,NA,W,7,0,NA
+1934,11/10/1934,@,Northwestern,NA,W,14,3,NA
+1934,11/17/1934,@,Wisconsin,NA,L,3,7,NA
+1934,11/24/1934,@,Chicago,NA,W,6,0,NA
+1933,9/30/1933,vs.,Drake,NA,W,13,6,NA
+1933,10/7/1933,@,Washington,NA,W,21,6,NA
+1933,10/14/1933,vs.,Wisconsin,NA,W,21,0,Homecoming
+1933,10/21/1933,"Cleveland, OH",Army,NA,L,0,6,NA
+1933,11/4/1933,vs.,Michigan,NA,L,6,7,NA
+1933,11/11/1933,@,Northwestern,NA,W,3,0,NA
+1933,11/18/1933,vs.,Chicago,NA,W,7,0,NA
+1933,11/25/1933,@,Ohio State,NA,L,6,7,NA
+1932,10/1/1932,vs.,Coe,NA,W,13,0,NA
+1932,10/1/1932,vs.,Miami,NA,W,20,7,NA
+1932,10/8/1932,vs.,Bradley,NA,W,20,0,NA
+1932,10/15/1932,vs.,Northwestern,NA,L,0,26,Homecoming
+1932,10/22/1932,@,Michigan,NA,L,0,32,NA
+1932,10/29/1932,@,Chicago,NA,W,13,7,NA
+1932,11/5/1932,@,Wisconsin,NA,L,12,20,NA
+1932,11/12/1932,vs.,Indiana,NA,W,18,6,NA
+1932,11/19/1932,vs.,Ohio State,NA,L,0,3,NA
+1931,10/3/1931,vs.,St. Louis,NA,W,20,6,NA
+1931,10/10/1931,@,Purdue,NA,L,0,7,NA
+1931,10/17/1931,vs.,Bradley,NA,W,20,0,NA
+1931,10/24/1931,vs.,Michigan,NA,L,0,35,Homecoming
+1931,10/31/1931,@,Northwestern,NA,L,6,32,NA
+1931,11/7/1931,vs.,Wisconsin,NA,L,6,7,NA
+1931,11/14/1931,vs.,Chicago,NA,L,6,13,NA
+1931,11/21/1931,@,Ohio State,NA,L,0,40,NA
+1930,10/4/1930,vs.,Iowa State,NA,W,7,0,NA
+1930,10/11/1930,vs.,Butler,NA,W,27,0,NA
+1930,10/18/1930,vs.,Northwestern,NA,L,0,32,Homecoming
+1930,10/25/1930,@,Michigan,NA,L,7,15,NA
+1930,11/1/1930,vs.,Purdue,NA,L,0,25,NA
+1930,11/8/1930,"Bronx, NY",Army,NA,L,0,13,NA
+1930,11/15/1930,@,Chicago,NA,W,28,0,NA
+1930,11/22/1930,vs.,Ohio State,NA,L,9,12,NA
+1929,10/5/1929,vs.,Kansas,NA,W,25,0,NA
+1929,10/12/1929,vs.,Bradley,NA,W,45,0,NA
+1929,10/20/1929,@,Iowa,NA,T,7,7,NA
+1929,10/26/1929,vs.,Michigan,NA,W,14,0,Homecoming
+1929,11/2/1929,@,Northwestern,NA,L,0,7,NA
+1929,11/9/1929,vs.,Army,NA,W,17,7,NA
+1929,11/16/1929,vs.,Chicago,NA,W,20,6,NA
+1929,11/23/1929,@,Ohio State,NA,W,27,0,NA
+1928,10/6/1928,vs.,Bradley,NA,W,33,6,NA
+1928,10/13/1928,vs.,Coe,NA,W,31,0,NA
+1928,10/20/1928,vs.,Indiana,NA,W,13,7,NA
+1928,10/27/1928,vs.,Northwestern,NA,W,6,0,Homecoming
+1928,11/3/1928,@,Michigan,NA,L,0,3,NA
+1928,11/10/1928,@,Butler,NA,W,14,0,NA
+1928,11/17/1928,@,Chicago,NA,W,40,0,NA
+1928,11/24/1928,vs.,Ohio State,NA,W,8,0,NA
+1927,10/1/1927,vs.,Bradley,NA,W,19,0,NA
+1927,10/8/1927,vs.,Butler,NA,W,58,0,NA
+1927,10/15/1927,vs.,Iowa State,NA,T,12,12,NA
+1927,10/22/1927,@,Northwestern,NA,W,7,6,NA
+1927,10/29/1927,vs.,Michigan,NA,W,14,0,Homecoming
+1927,11/5/1927,@,Iowa,NA,W,14,0,NA
+1927,11/12/1927,vs.,Chicago,NA,W,15,6,NA
+1927,11/19/1927,@,Ohio State,NA,W,13,0,NA
+1926,10/2/1926,vs.,Coe,NA,W,27,0,NA
+1926,10/9/1926,vs.,Butler,NA,W,38,7,NA
+1926,10/16/1926,vs.,Iowa,NA,W,13,6,Homecoming
+1926,10/23/1926,@,Michigan,NA,L,0,13,NA
+1926,10/30/1926,vs.,Pennsylvania,NA,W,3,0,NA
+1926,11/6/1926,@,Chicago,NA,W,7,0,NA
+1926,11/13/1926,vs.,Wabash,NA,W,27,13,NA
+1926,11/20/1926,vs.,Ohio State,NA,L,6,7,NA
+1925,10/3/1925,vs.,Nebraska,NA,L,0,14,NA
+1925,10/10/1925,vs.,Butler,NA,W,16,13,NA
+1925,10/17/1925,@,Iowa,NA,L,10,12,NA
+1925,10/24/1925,vs.,Michigan,NA,L,0,3,Homecoming
+1925,10/31/1925,@,Pennsylvania,NA,W,24,2,NA
+1925,11/7/1925,vs.,Chicago,NA,W,13,6,NA
+1925,11/14/1925,vs.,Wabash,NA,W,21,0,NA
+1925,11/21/1925,@,Ohio State,NA,W,14,9,NA
+1924,10/4/1924,@,Nebraska,NA,W,9,6,NA
+1924,10/11/1924,vs.,Butler,NA,W,40,10,NA
+1924,10/18/1924,vs.,Michigan,NA,W,39,14,Homecoming
+1924,10/25/1924,vs.,DePauw,NA,W,45,0,NA
+1924,11/1/1924,vs.,Iowa,NA,W,36,0,NA
+1924,11/8/1924,@,Chicago,NA,T,21,21,NA
+1924,11/15/1924,@,Minnesota,NA,L,7,20,NA
+1924,11/22/1924,vs.,Ohio State,NA,W,7,0,NA
+1923,10/6/1923,vs.,Nebraska,NA,W,24,7,NA
+1923,10/13/1923,vs.,Butler,NA,W,21,7,NA
+1923,10/20/1923,@,Iowa,NA,W,9,6,NA
+1923,10/27/1923,"Chicago, IL",Northwestern,NA,W,29,0,NA
+1923,11/3/1923,vs.,Chicago,NA,W,7,0,Homecoming
+1923,11/10/1923,vs.,Wisconsin,NA,W,10,0,NA
+1923,11/17/1923,vs.,Mississippi State,NA,W,27,0,NA
+1923,11/24/1923,@,Ohio State,NA,W,9,0,NA
+1922,10/14/1922,vs.,Butler,NA,L,7,10,NA
+1922,10/21/1922,vs.,Iowa,NA,L,7,8,Homecoming
+1922,10/28/1922,@,Michigan,NA,L,0,24,NA
+1922,11/4/1922,vs.,Northwestern,NA,W,6,3,NA
+1922,11/11/1922,@,Wisconsin,NA,W,3,0,NA
+1922,11/18/1922,@,Chicago,NA,L,0,9,NA
+1922,11/25/1922,vs.,Ohio State,NA,L,3,6,NA
+1921,10/8/1921,vs.,South Dakota,NA,W,52,0,NA
+1921,10/15/1921,@,Iowa,NA,L,2,14,NA
+1921,10/22/1921,vs.,Wisconsin,NA,L,0,20,NA
+1921,10/29/1921,vs.,Michigan,NA,L,0,3,NA
+1921,11/5/1921,vs.,DePauw,NA,W,21,0,NA
+1921,11/12/1921,vs.,Chicago,NA,L,6,14,Homecoming
+1921,11/19/1921,@,Ohio State,NA,W,7,0,NA
+1920,10/9/1920,vs.,Drake,NA,W,41,0,NA
+1920,10/16/1920,vs.,Iowa,NA,W,20,3,NA
+1920,10/23/1920,@,Michigan,NA,W,7,6,NA
+1920,10/30/1920,vs.,Minnesota,NA,W,17,7,Homecoming
+1920,11/6/1920,@,Chicago,NA,W,3,0,NA
+1920,11/13/1920,@,Wisconsin,NA,L,9,14,NA
+1920,11/20/1920,vs.,Ohio State,NA,L,0,7,NA
+1919,10/11/1919,@,Purdue,NA,W,14,7,NA
+1919,10/18/1919,vs.,Iowa,NA,W,9,7,NA
+1919,10/25/1919,vs.,Wisconsin,NA,L,10,14,NA
+1919,11/1/1919,vs.,Chicago,NA,W,10,0,Homecoming
+1919,11/8/1919,@,Minnesota,NA,W,10,6,NA
+1919,11/15/1919,vs.,Michigan,NA,W,29,7,NA
+1919,11/22/1919,@,Ohio State,NA,W,9,7,NA
+1918,10/4/1918,@,Chanute Field,NA,W,3,0,NA
+1918,10/12/1918,vs.,Great Lakes Navy,NA,L,0,7,NA
+1918,10/26/1918,vs.,Chicago Naval Reserve,NA,L,0,7,NA
+1918,11/2/1918,@,Iowa,NA,W,19,0,NA
+1918,11/9/1918,@,Wisconsin,NA,W,22,0,NA
+1918,11/16/1918,vs.,Ohio State,NA,W,13,0,NA
+1918,11/23/1918,@,Chicago,NA,W,29,0,NA
+1917,10/6/1917,vs.,Kansas,NA,W,22,0,NA
+1917,10/13/1917,vs.,Oklahoma,NA,W,44,0,NA
+1917,10/20/1917,vs.,Wisconsin,NA,W,7,0,Homecoming
+1917,10/27/1917,vs.,Purdue,NA,W,27,0,NA
+1917,11/3/1917,@,Chicago,NA,T,0,0,NA
+1917,11/17/1917,@,Ohio State,NA,L,0,13,NA
+1917,11/24/1917,vs.,Minnesota,NA,L,6,27,NA
+1917,11/29/1917,@,Camp Funston,NA,W,28,0,NA
+1916,10/7/1916,vs.,Kansas,NA,W,30,0,NA
+1916,10/14/1916,vs.,Colgate,NA,L,3,15,NA
+1916,10/21/1916,vs.,Ohio State,NA,L,6,7,NA
+1916,10/28/1916,@,Purdue,NA,W,14,7,NA
+1916,11/11/1916,@,Minnesota,NA,W,14,9,NA
+1916,11/18/1916,vs.,Chicago,NA,L,7,20,Homecoming
+1916,11/25/1916,@,Wisconsin,NA,T,0,0,NA
+1915,10/2/1915,vs.,Haskell,NA,W,36,0,NA
+1915,10/9/1915,vs.,Missouri-Rolla,NA,W,75,7,NA
+1915,10/16/1915,@,Ohio State,NA,T,3,3,NA
+1915,10/23/1915,vs.,Northwestern,NA,W,36,6,NA
+1915,11/6/1915,vs.,Minnesota,NA,T,6,6,Homecoming
+1915,11/13/1915,vs.,Wisconsin,NA,W,17,3,NA
+1915,11/20/1915,@,Chicago,NA,W,10,0,NA
+1914,10/3/1914,vs.,Christian Brothers,NA,W,37,0,NA
+1914,10/10/1914,vs.,Indiana,NA,W,51,0,NA
+1914,10/17/1914,vs.,Ohio State,NA,W,37,0,NA
+1914,10/24/1914,@,Northwestern,NA,W,33,0,NA
+1914,10/31/1914,@,Minnesota,NA,W,21,6,NA
+1914,11/14/1914,vs.,Chicago,NA,W,21,7,Homecoming
+1914,11/21/1914,@,Wisconsin,NA,W,24,9,NA
+1913,10/4/1913,vs.,Kentucky,NA,W,21,0,NA
+1913,10/11/1913,vs.,Missouri,NA,W,24,7,NA
+1913,10/18/1913,vs.,Northwestern,NA,W,37,0,NA
+1913,10/25/1913,@,Indiana,NA,W,10,0,NA
+1913,11/1/1913,@,Chicago,NA,L,7,28,NA
+1913,11/15/1913,vs.,Purdue,NA,T,0,0,Homecoming
+1913,11/22/1913,vs.,Minnesota,NA,L,9,19,NA
+1912,10/5/1912,vs.,Illinois Wesleyan,NA,W,87,3,NA
+1912,10/12/1912,vs.,Washington,NA,W,13,0,NA
+1912,10/19/1912,vs.,Indiana,NA,W,13,7,NA
+1912,11/2/1912,@,Minnesota,NA,L,0,13,NA
+1912,11/9/1912,@,Purdue,NA,T,9,9,NA
+1912,11/16/1912,vs.,Chicago,NA,L,0,10,Homecoming
+1912,11/23/1912,@,Northwestern,NA,L,0,6,NA
+1911,10/7/1911,vs.,James Millikin,NA,W,33,0,NA
+1911,10/14/1911,vs.,St. Louis,NA,W,9,0,NA
+1911,10/21/1911,@,Chicago,NA,L,0,24,NA
+1911,11/4/1911,vs.,Purdue,NA,W,12,3,NA
+1911,11/11/1911,@,Indiana,NA,T,0,0,NA
+1911,11/18/1911,vs.,Northwestern,NA,W,27,13,NA
+1911,11/25/1911,vs.,Minnesota,NA,L,0,11,Homecoming
+1910,10/1/1910,vs.,James Millikin,NA,W,13,0,NA
+1910,10/8/1910,vs.,Drake,NA,W,29,0,NA
+1910,10/15/1910,vs.,Chicago,NA,W,3,0,Homecoming
+1910,10/29/1910,@,Purdue,NA,W,11,0,NA
+1910,11/5/1910,@,Indiana,NA,W,3,0,NA
+1910,11/12/1910,@,Northwestern,NA,W,27,0,NA
+1910,11/19/1910,vs.,Syracuse,NA,W,3,0,NA
+1909,10/2/1909,vs.,James Millikin,NA,W,23,0,NA
+1909,10/9/1909,vs.,Kentucky,NA,L,2,6,NA
+1909,10/16/1909,@,Chicago,NA,L,8,14,NA
+1909,10/30/1909,vs.,Purdue,NA,W,24,6,NA
+1909,11/6/1909,vs.,Indiana,NA,W,6,5,NA
+1909,11/13/1909,@,Northwestern,NA,W,35,0,NA
+1909,11/20/1909,@,Syracuse,NA,W,17,8,NA
+1908,10/3/1908,vs.,Monmouth,NA,W,17,6,NA
+1908,10/10/1908,vs.,Marquette,NA,T,6,6,NA
+1908,10/17/1908,@,Chicago,NA,L,6,11,NA
+1908,10/31/1908,vs.,Indiana,NA,W,10,0,NA
+1908,11/7/1908,vs.,Iowa,NA,W,22,0,NA
+1908,11/14/1908,@,Purdue,NA,W,15,6,NA
+1908,11/21/1908,vs.,Northwestern,NA,W,64,8,NA
+1907,10/19/1907,vs.,Chicago,NA,L,6,42,NA
+1907,10/26/1907,@,Wisconsin,NA,W,15,4,NA
+1907,11/2/1907,vs.,Purdue,NA,W,21,4,NA
+1907,11/9/1907,@,Iowa,NA,L,12,25,NA
+1907,11/22/1907,@,Indiana,NA,W,10,6,NA
+1906,10/13/1906,vs.,Wabash,NA,T,0,0,NA
+1906,10/27/1906,@,Michigan,NA,L,9,28,NA
+1906,11/10/1906,vs.,Wisconsin,NA,L,6,16,NA
+1906,11/17/1906,@,Chicago,NA,L,0,63,NA
+1906,11/25/1906,@,Purdue,NA,W,5,0,NA
+1905,9/30/1905,vs.,Knox,NA,W,6,0,NA
+1905,10/4/1905,vs.,Wabash,NA,W,6,0,NA
+1905,10/7/1905,vs.,North Central,NA,W,24,0,NA
+1905,10/14/1905,vs.,St. Louis,NA,W,12,6,NA
+1905,10/21/1905,vs.,Purdue,NA,L,0,29,NA
+1905,10/28/1905,vs.,Physicians & Surgeons,NA,W,30,0,NA
+1905,11/4/1905,vs.,Michigan,NA,L,0,33,NA
+1905,11/18/1905,@,Chicago,NA,L,0,44,NA
+1905,11/30/1905,@,Nebraska,NA,L,6,24,NA
+1904,9/24/1904,vs.,North Central,NA,W,10,0,NA
+1904,9/28/1904,vs.,Wabash,NA,W,23,2,NA
+1904,10/1/1904,vs.,Knox,NA,W,11,0,NA
+1904,10/5/1904,vs.,Physicians & Surgeons,NA,W,26,0,NA
+1904,10/8/1904,@,Washington,NA,W,31,0,NA
+1904,10/15/1904,vs.,Indiana,NA,W,10,0,NA
+1904,10/22/1904,@,Purdue,NA,W,24,6,NA
+1904,10/29/1904,@,Chicago,NA,T,6,6,NA
+1904,11/5/1904,@,Ohio State,NA,W,46,0,NA
+1904,11/12/1904,@,Northwestern,NA,L,6,12,NA
+1904,11/19/1904,vs.,Iowa,NA,W,29,0,NA
+1904,11/24/1904,@,Nebraska,NA,L,10,16,NA
+1903,9/19/1903,vs.,Englewood High,NA,W,45,5,NA
+1903,9/26/1903,vs.,Lombard,NA,W,43,0,NA
+1903,9/30/1903,vs.,American Osteopath,NA,W,36,0,NA
+1903,10/3/1903,vs.,Knox,NA,W,29,5,NA
+1903,10/7/1903,vs.,Physicians & Surgeons,NA,W,40,0,NA
+1903,10/10/1903,vs.,Rush Medical,NA,W,64,0,NA
+1903,10/14/1903,vs.,Chicago Dental,NA,W,54,0,NA
+1903,10/17/1903,@,Purdue,NA,W,24,0,NA
+1903,10/24/1903,@,Chicago,NA,L,6,18,NA
+1903,10/31/1903,vs.,Northwestern,NA,L,11,12,NA
+1903,11/6/1903,@,Indiana,NA,L,0,17,NA
+1903,11/14/1903,vs.,Minnesota,NA,L,0,32,NA
+1903,11/21/1903,@,Iowa,NA,L,0,12,NA
+1903,11/26/1903,@,Nebraska,NA,L,0,16,NA
+1902,9/20/1902,vs.,North Division High,NA,W,34,6,NA
+1902,9/27/1902,vs.,Englewood High,NA,W,45,0,NA
+1902,10/1/1902,vs.,American Osteopath,NA,W,22,0,NA
+1902,10/4/1902,vs.,Monmouth,NA,W,33,0,NA
+1902,10/8/1902,vs.,Haskell,NA,W,24,10,NA
+1902,10/11/1902,vs.,Washington,NA,W,44,0,NA
+1902,10/18/1902,vs.,Purdue,NA,W,29,5,NA
+1902,10/25/1902,@,Chicago,NA,L,0,6,NA
+1902,11/1/1902,vs.,Indiana,NA,W,47,0,NA
+1902,11/8/1902,@,Minnesota,NA,L,5,17,NA
+1902,11/15/1902,@,Ohio State,NA,T,0,0,NA
+1902,11/22/1902,@,Northwestern,NA,W,17,0,NA
+1902,11/27/1902,vs.,Iowa,NA,W,80,0,NA
+1901,9/28/1901,vs.,Englewood High,NA,W,39,0,NA
+1901,10/5/1901,vs.,Marion Sims,NA,W,52,0,NA
+1901,10/11/1901,vs.,Physicians & Surgeons,NA,W,23,0,NA
+1901,10/12/1901,vs.,Washington,NA,W,21,0,NA
+1901,10/19/1901,@,Chicago,NA,W,24,0,NA
+1901,10/26/1901,vs.,Northwestern,NA,L,11,17,NA
+1901,11/2/1901,"Indianapolis, IN",Indiana,NA,W,18,0,NA
+1901,11/9/1901,@,Iowa,NA,W,27,0,NA
+1901,11/16/1901,@,Purdue,NA,W,28,6,NA
+1901,11/28/1901,vs.,Minnesota,NA,L,0,16,NA
+1900,9/29/1900,vs.,Rose-Hulman,NA,W,26,0,NA
+1900,10/3/1900,vs.,DePauw,NA,W,63,0,NA
+1900,10/6/1900,vs.,Illinois Wesleyan,NA,W,21,0,NA
+1900,10/10/1900,vs.,Physicians & Surgeons,NA,W,6,0,NA
+1900,10/13/1900,vs.,Knox,NA,W,16,0,NA
+1900,10/16/1900,vs.,Lombard,NA,W,35,0,NA
+1900,10/20/1900,@,Northwestern,NA,T,0,0,NA
+1900,10/27/1900,"Chicago, IL",Michigan,NA,L,0,12,NA
+1900,11/3/1900,vs.,Purdue,NA,W,17,5,NA
+1900,11/10/1900,@,Minnesota,NA,L,0,23,NA
+1900,11/17/1900,"Indianapolis, IN",Indiana,NA,T,0,0,NA
+1900,11/24/1900,@,Wisconsin,NA,L,0,27,NA
+1899,1899-09-30,vs.,Illinois Wesleyan,NA,W,6,0,NA
+1899,1899-10-07,@,Knox,NA,W,5,0,NA
+1899,1899-10-14,vs.,Indiana,NA,L,0,5,NA
+1899,1899-10-28,vs.,Michigan,NA,L,0,5,NA
+1899,1899-11-06,vs.,Illinois Alumni,NA,T,0,0,NA
+1899,1899-11-11,"Milwaukee, WI",Wisconsin,NA,L,0,23,NA
+1899,1899-11-22,vs.,Purdue,NA,L,0,5,NA
+1899,1899-11-25,@,St. Louis,NA,W,29,0,NA
+1899,1899-11-30,"Rock Island, IL",Iowa,NA,L,0,58,NA
+1898,1898-09-28,vs.,Illinois Wesleyan,NA,W,18,0,NA
+1898,1898-10-01,vs.,Physicians & Surgeons,NA,L,6,11,NA
+1898,1898-10-08,vs.,Notre Dame,NA,L,0,5,NA
+1898,1898-10-15,vs.,DePauw,NA,W,16,0,NA
+1898,1898-10-22,vs.,Illinois Alumni,NA,W,10,6,NA
+1898,1898-11-04,vs.,Illinois Alumni,NA,L,17,23,NA
+1898,1898-11-12,"Detroit, MI",Michigan,NA,L,5,12,NA
+1898,1898-11-19,"Chicago, IL",Carlisle,NA,L,0,11,NA
+1898,1898-11-24,vs.,Minnesota,NA,W,11,10,NA
+1897,1897-10-02,vs.,Eureka,NA,W,26,0,NA
+1897,1897-10-09,vs.,Physicians & Surgeons,NA,W,6,0,NA
+1897,1897-10-16,vs.,Lake Forest,NA,W,36,0,NA
+1897,1897-10-23,vs.,Purdue,NA,W,34,4,NA
+1897,1897-10-30,vs.,Chicago,NA,L,12,18,NA
+1897,1897-11-12,vs.,Knox,NA,W,64,0,NA
+1897,1897-11-20,"Chicago, IL",Carlisle,NA,L,6,23,NA
+1897,1897-11-25,"Peoria, IL",Eureka,NA,W,6,0,NA
+1896,1896-10-03,vs.,Lake Forest,NA,W,38,0,NA
+1896,1896-10-10,vs.,Knox,NA,W,70,4,NA
+1896,1896-10-17,"St. Louis, MO",Missouri,NA,W,10,0,NA
+1896,1896-10-21,vs.,Oberlin,NA,W,22,6,NA
+1896,1896-10-31,@,Chicago,NA,L,0,12,NA
+1896,1896-11-07,vs.,Northwestern,NA,L,4,10,NA
+1896,1896-11-25,@,Purdue,NA,T,4,4,NA
+1895,1895-10-05,vs.,Wabash,NA,W,48,0,NA
+1895,1895-10-12,@,Chicago A.C.,NA,L,0,8,NA
+1895,1895-10-19,vs.,Illinois College,NA,W,79,0,NA
+1895,1895-10-26,@,Wisconsin,NA,T,10,10,NA
+1895,1895-11-02,vs.,Lake Forest,NA,W,38,0,NA
+1895,1895-11-23,vs.,Northwestern,NA,W,38,4,NA
+1895,1895-11-28,@,Purdue,NA,L,2,6,NA
+1894,1894-10-06,@,Wabash,NA,W,36,6,NA
+1894,1894-10-13,@,Chicago A.C.,NA,L,0,14,NA
+1894,1894-10-20,vs.,Lake Forest,NA,W,54,6,NA
+1894,1894-11-03,vs.,Northwestern,NA,W,66,0,NA
+1894,1894-11-17,vs.,Purdue,NA,L,2,22,NA
+1894,1894-11-24,vs.,Indianapolis Artillery,NA,L,14,18,NA
+1894,1894-11-29,"St. Louis, MO",Pastime A.C.,NA,W,10,0,NA
+1893,1893-09-30,vs.,Wabash,NA,W,60,6,NA
+1893,1893-10-07,@,DePauw,NA,W,14,4,NA
+1893,1893-10-21,@,Northwestern,NA,T,0,0,NA
+1893,1893-10-28,vs.,Chicago A.C.,NA,L,4,10,NA
+1893,1893-11-06,vs.,Oberlin,NA,L,24,34,NA
+1893,1893-11-11,"St. Louis, MO",Pastime A.C.,NA,W,18,16,NA
+1893,1893-11-25,@,Purdue,NA,T,26,26,NA
+1893,1893-11-30,vs.,Lake Forest,NA,T,10,10,NA
+1892,1892-10-08,vs.,Purdue,NA,L,6,12,NA
+1892,1892-10-12,vs.,Northwestern,NA,T,16,16,NA
+1892,1892-10-21,@,Washington,NA,W,22,0,NA
+1892,1892-10-22,"Omaha, NE",Doane,NA,W,20,0,NA
+1892,1892-10-24,@,Nebraska,NA,L,0,6,NA
+1892,1892-10-26,@,Baker,NA,W,26,10,NA
+1892,1892-10-27,@,Kansas,NA,L,4,26,NA
+1892,1892-10-29,@,Kansas City A.C.,NA,W,42,0,NA
+1892,1892-11-05,vs.,Englewood High,NA,W,38,0,NA
+1892,1892-11-16,@,Chicago,NA,L,4,10,NA
+1892,1892-11-18,vs.,DePauw,NA,W,34,0,NA
+1892,1892-11-24,vs.,Chicago,NA,W,28,12,NA
